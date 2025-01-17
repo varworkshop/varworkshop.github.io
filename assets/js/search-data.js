@@ -434,8 +434,28 @@ ninja.data = [{
     },{id: "news-the-website-is-now-live",
           title: 'The website is now live.',
           description: "",
-          section: "News",},{id: "projects-avi-kembhavi",
-          title: 'Avi Kembhavi',
+          section: "News",},{id: "organizers-ani-kembhavi",
+          title: 'Ani Kembhavi',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/1_project/";
+            },},{id: "organizers-kate-saenko",
+          title: 'Kate Saenko',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/2_project/";
+            },},{id: "organizers-marc-pollefeys",
+          title: 'Marc Pollefeys',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/3_project/";
+            },},{id: "organizers-mike-shou",
+          title: 'Mike Shou',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/4_project/";
+            },},{id: "projects-ani-kembhavi",
+          title: 'Ani Kembhavi',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
