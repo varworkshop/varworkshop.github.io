@@ -2,15 +2,18 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Schedule of the VAR@CVPR2025 Workshop
+description: 
 nav: true
 nav_order: 2
 ---
 
-Date: TBD
-Location: TBD
+- **Date:** TBD
+- **Location:** TBD
+
 The workshop will be held in person at CVPR 2025 at the Music City Center, Nashville. The schedule is currently tentative and will become clear over time. All times are in local time zone, Eastern Daylight Time (EDT).
-Tentative Workshop Schedule
+
+
+### Tentative Workshop Schedule
 
 | Time Slot    | Event                      |
 | :---------- | :------------------------- |
