@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/schedule/";
           },
-        },{id: "nav-schedule",
-          title: "Schedule",
-          description: "Schedule of the VAR@CVPR2025 Workshop",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/schedule/";
-          },
         },{id: "nav-challenges",
           title: "Challenges",
           description: "",
