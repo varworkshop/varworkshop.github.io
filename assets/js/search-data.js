@@ -434,8 +434,8 @@ ninja.data = [{
     },{id: "news-the-website-is-now-live",
           title: 'The website is now live.',
           description: "",
-          section: "News",},{id: "projects-ani-kembhavi",
-          title: 'Ani Kembhavi',
+          section: "News",},{id: "projects-avi-kembhavi",
+          title: 'Avi Kembhavi',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
