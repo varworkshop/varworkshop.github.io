@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: VAR
 permalink: /
 
 news: true # includes a list of news items
