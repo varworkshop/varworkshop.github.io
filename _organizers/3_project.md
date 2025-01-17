@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Marc Pollefeys
-img: assets/img/speakers/marc_pollefeys.jpg
-redirect: https://people.inf.ethz.ch/marc.pollefeys/
+title: Bugra Tekin
+img: assets/img/organizers/bugra_tekin.jpg
+redirect: https://btekin.github.io/
 importance: 3
 category: work
 ---

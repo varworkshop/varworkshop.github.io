@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mike Shou
-img: assets/img/speakers/mike_shou.jpg
-redirect: https://sites.google.com/view/showlab
+title: Edoardo Remelli
+img: assets/img/speakers/edoardo_remelli.jpg
+redirect: https://scholar.google.com/citations?user=yz2P_aUAAAAJ&hl=en
 importance: 4
-category: fun
+category: work
 ---
