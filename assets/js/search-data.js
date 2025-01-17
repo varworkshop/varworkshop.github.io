@@ -439,8 +439,8 @@ ninja.data = [{
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/1_project/";
-            },},{id: "organizers-kate-saenko",
-          title: 'Kate Saenko',
+            },},{id: "organizers-angela-yao",
+          title: 'Angela Yao',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/2_project/";
