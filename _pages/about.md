@@ -5,21 +5,13 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: profile.tiff
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Humans interact with the world as they move through and engage with their surroundings. There is a vast potential to improve these interactions through research aimed at developing vision-based cooking-, voice-, fitness-, health-, driving-, embodied- assistants. Such assistants could help us by providing interactive and detailed instructions in real-time or by taking over daily life tasks. This workshop seeks to serve as a forum for discussing challenges of developing vision-based assistants for daily tasks. To this end, the VAR workshop features an exciting lineup of speakers and live demonstrations of vision-based assistants (see [Call for Demos and Papers](/al-folio/DemosandPapers/)).
+Additionally, as there are limited datasets and benchmarks for real-world vision-based assistants, the VAR workshop will host two challenges designed to foster the development of real-world vision-based assistants (see [Challenges](/al-folio/Challenges/)).
