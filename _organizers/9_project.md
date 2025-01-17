@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shweta Mahajan
-img: assets/img/organizers/shweta_mahajan.jpg
+img: assets/img/organizers/shweta_mahajan.png
 importance: 9
 redirect: https://s-mahajan.github.io/
 category: work

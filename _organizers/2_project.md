@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kate Saenko
+title: Angela Yao
 img: assets/img/organizers/angela_yao.jpg
 importance: 2
 redirect: https://www.comp.nus.edu.sg/~ayao/
