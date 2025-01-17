@@ -434,8 +434,8 @@ ninja.data = [{
     },{id: "news-the-website-is-now-live",
           title: 'The website is now live.',
           description: "",
-          section: "News",},{id: "organizers-ani-kembhavi",
-          title: 'Ani Kembhavi',
+          section: "News",},{id: "organizers-apratim-bhattacharyya",
+          title: 'Apratim Bhattacharyya',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/1_project/";
@@ -444,16 +444,41 @@ ninja.data = [{
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/2_project/";
-            },},{id: "organizers-marc-pollefeys",
-          title: 'Marc Pollefeys',
+            },},{id: "organizers-bugra-tekin",
+          title: 'Bugra Tekin',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/3_project/";
-            },},{id: "organizers-mike-shou",
-          title: 'Mike Shou',
+            },},{id: "organizers-edoardo-remelli",
+          title: 'Edoardo Remelli',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/4_project/";
+            },},{id: "organizers-fadime-sener",
+          title: 'Fadime Sener',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/5_project/";
+            },},{id: "organizers-guodong-ding",
+          title: 'Guodong Ding',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/6_project/";
+            },},{id: "organizers-roland-memisevic",
+          title: 'Roland Memisevic',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/7_project/";
+            },},{id: "organizers-shugao-ma",
+          title: 'Shugao Ma',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/8_project/";
+            },},{id: "organizers-shweta-mahajan",
+          title: 'Shweta Mahajan',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/9_project/";
             },},{id: "projects-ani-kembhavi",
           title: 'Ani Kembhavi',
           description: "",
