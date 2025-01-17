@@ -151,6 +151,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  organizers:
+    output: true
+    permalink: /organizers/:path/
 
 announcements:
   enabled: true
