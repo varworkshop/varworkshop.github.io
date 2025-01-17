@@ -203,6 +203,8 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/cv.md
+  - _pages/about_old.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
