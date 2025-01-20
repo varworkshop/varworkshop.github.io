@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-### Call for Extended Abstracts and Demos
+### Calls
 
 We invite submissions of extended abstracts. We encourage workshop contributions to be accompanied by a demo to be shown during the workshop. While live demos—such as web-based ones or those running on hardware like phones or laptops are highly encouraged, for this first edition of the workshop, video demos will also be accepted to accommodate any challenges participants may face in transporting their demo setups or devices to the workshop. The review process will be double-blind. Participants will be asked to upload their extended abstracts (with demo plans) to CMT. 
 
