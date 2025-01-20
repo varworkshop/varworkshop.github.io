@@ -439,22 +439,22 @@ ninja.data = [{
               window.location.href = "/organizers/9_project/";
             },},{id: "projects-ani-kembhavi",
           title: 'Ani Kembhavi',
-          description: "",
+          description: "Wayve",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-kate-saenko",
           title: 'Kate Saenko',
-          description: "",
+          description: "Boston University, FAIR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-marc-pollefeys",
           title: 'Marc Pollefeys',
-          description: "",
+          description: "ETH Zurich, Microsoft",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-mike-shou",
           title: 'Mike Shou',
-          description: "",
+          description: "National U. of Singapore",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
