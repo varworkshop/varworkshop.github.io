@@ -65,7 +65,9 @@ horizontal: false
 </div>
 
 
-### Challenge Organizers
+<br/>
+
+## Challenge Organizers
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
