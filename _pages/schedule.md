@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-- **Date:** TBD
-- **Location:** TBD
+- **Date:** <font color="red">[Coming soon!]</font>
+- **Location:** <font color="red">[Coming soon!]</font>
 
 The workshop will be held in person at CVPR 2025 at the Music City Center, Nashville. The schedule is currently tentative and will become clear over time. All times are in local time zone, Eastern Daylight Time (EDT).
 

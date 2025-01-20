@@ -22,7 +22,7 @@ We invite contributions on topics relevant to the development of vision-based as
 
 ### Important Information
 
-- **CMT for submissions:** <font color="red">[TBD]</font>
+- **CMT for submissions:** <font color="red">[Coming soon!]</font>
 - **Paper length:** Extended abstracts (4 pages) with additional pages for demo plans.
 - **Dates:**
 	- **Paper Submission Deadline:** May 1st, 2025
