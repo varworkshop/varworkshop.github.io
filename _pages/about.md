@@ -8,7 +8,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-![]({{ "/assets/img/profile.png" | relative_url }}){:style="margin:auto; display:block;width:100%"}
+![]({{ "/assets/img/cvpr2025_nashville_tn.jpeg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
 
 Humans interact with the world as they move through and engage with their surroundings. There is a vast potential to improve these interactions through research aimed at developing vision-based cooking-, voice-, fitness-, health-, driving-, embodied- assistants. Such assistants could help us by providing interactive and detailed instructions in real-time or by taking over daily life tasks. 
 
