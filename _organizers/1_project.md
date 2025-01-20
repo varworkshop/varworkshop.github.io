@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Apratim Bhattacharyya
+description: Qualcomm AI Research
 img: assets/img/organizers/apratim_bhattacharyya.jpg
 importance: 1
 redirect: https://apratimbhattacharyya18.github.io/

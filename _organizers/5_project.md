@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fadime Sener
+description: Meta Reality Labs
 img: assets/img/organizers/fadime_sener.jpg
 importance: 5
 redirect: https://ai.meta.com/people/7372350392880978/fadime-sener/
