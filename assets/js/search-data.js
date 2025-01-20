@@ -391,12 +391,12 @@ ninja.data = [{
       },
     },{id: "challenge_organizers-sunny-panchal",
           title: 'Sunny Panchal',
-          description: "",
+          description: "Qualcomm AI Research",
           section: "Challenge_organizers",handler: () => {
               window.location.href = "/challenge_organizers/1_project/";
             },},{id: "challenge_organizers-reza-pourreza",
           title: 'Reza Pourreza',
-          description: "",
+          description: "Qualcomm AI Research",
           section: "Challenge_organizers",handler: () => {
               window.location.href = "/challenge_organizers/2_project/";
             },},{id: "news-the-website-is-now-live",
@@ -404,47 +404,47 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "organizers-apratim-bhattacharyya",
           title: 'Apratim Bhattacharyya',
-          description: "",
+          description: "Qualcomm AI Research",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/1_project/";
             },},{id: "organizers-angela-yao",
           title: 'Angela Yao',
-          description: "",
+          description: "National U. of Singapore",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/2_project/";
             },},{id: "organizers-bugra-tekin",
           title: 'Bugra Tekin',
-          description: "",
+          description: "Meta Reality Labs",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/3_project/";
             },},{id: "organizers-edoardo-remelli",
           title: 'Edoardo Remelli',
-          description: "",
+          description: "Meta Reality Labs",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/4_project/";
             },},{id: "organizers-fadime-sener",
           title: 'Fadime Sener',
-          description: "",
+          description: "Meta Reality Labs",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/5_project/";
             },},{id: "organizers-guodong-ding",
           title: 'Guodong Ding',
-          description: "",
+          description: "National U. of Singapore",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/6_project/";
             },},{id: "organizers-roland-memisevic",
           title: 'Roland Memisevic',
-          description: "",
+          description: "Qualcomm AI Research",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/7_project/";
             },},{id: "organizers-shugao-ma",
           title: 'Shugao Ma',
-          description: "",
+          description: "Meta Reality Labs",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/8_project/";
             },},{id: "organizers-shweta-mahajan",
           title: 'Shweta Mahajan',
-          description: "",
+          description: "Qualcomm AI Research",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/9_project/";
             },},{id: "projects-ani-kembhavi",
