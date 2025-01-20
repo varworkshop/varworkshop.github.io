@@ -389,7 +389,17 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-the-website-is-now-live",
+    },{id: "challenge_organizers-sunny-panchal",
+          title: 'Sunny Panchal',
+          description: "",
+          section: "Challenge_organizers",handler: () => {
+              window.location.href = "/challenge_organizers/1_project/";
+            },},{id: "challenge_organizers-reza-pourreza",
+          title: 'Reza Pourreza',
+          description: "",
+          section: "Challenge_organizers",handler: () => {
+              window.location.href = "/challenge_organizers/2_project/";
+            },},{id: "news-the-website-is-now-live",
           title: 'The website is now live.',
           description: "",
           section: "News",},{id: "organizers-apratim-bhattacharyya",
