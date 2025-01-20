@@ -177,6 +177,7 @@ ul.task-list input[type="checkbox"] {
   .card-title {
     color: var(--global-text-color);
     font-size: 2rem;
+    text-align: center;
   }
 
   .card-body {
@@ -664,6 +665,7 @@ footer.sticky-bottom {
       .card-title {
         color: var(--global-theme-color);
         font-size: 2rem;
+        text-align: center;
       }
     }
   }
@@ -1118,6 +1120,7 @@ nav[data-toggle="toc"] {
       .card-title {
         color: var(--global-theme-color);
         font-size: 2rem;
+        text-align: center;
       }
     }
   }
