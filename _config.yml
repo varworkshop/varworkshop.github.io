@@ -154,6 +154,9 @@ collections:
   organizers:
     output: true
     permalink: /organizers/:path/
+  challenge_organizers:
+    output: true
+    permalink: /challenge_organizers/:path/
 
 announcements:
   enabled: true
