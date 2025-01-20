@@ -20,7 +20,7 @@ We invite contributions on topics relevant to the development of vision-based as
 - Ego-centric video understanding 
 - Language and robot learning
 
-### Important Info:
+### Important Information
 
 - **CMT for submissions:** <font color="red">[TBD]</font>
 - **Paper length:** Extended abstracts (4 pages) with additional pages for demo plans.
