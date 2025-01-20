@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /calls/
-title: Calls
+title: Demos and Papers
 description: 
 nav: true
 nav_order: 2
