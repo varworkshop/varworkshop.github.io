@@ -7,12 +7,12 @@ nav: true
 nav_order: 3
 ---
 
-The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These tasks are designed to test both the low-level vision skills and higher-level reasoning skills of vision-based assistants.
+The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
 
 ### Challenge 1: Interactive Feedback Generation
 This challenge focuses on assisting users through a workout session with interactive feedback.
 
-**Details:** <font color="red">TBD</font> (also see [here](https://www.qualcomm.com/developer/software/qevd-dataset).
+**Details:** <font color="red">TBD</font> (also see [here](https://www.qualcomm.com/developer/software/qevd-dataset) and [here](https://github.com/Qualcomm-AI-research/FitCoach)) .
 
 
 ### Challenge 2: Interactive Question Answering

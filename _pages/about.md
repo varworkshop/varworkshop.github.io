@@ -16,6 +16,8 @@ This workshop seeks to serve as a forum for discussing challenges of developing 
 Additionally, as there are limited datasets and benchmarks for real-world vision-based assistants, the VAR workshop will host two challenges designed to foster the development of real-world vision-based assistants (see [Challenges](/al-folio/Challenges/)).
 
 
+## Confiremed Speakers
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

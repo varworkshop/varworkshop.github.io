@@ -63,3 +63,6 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+
+### Challenge Organizers
