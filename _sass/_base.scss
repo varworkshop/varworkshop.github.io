@@ -663,6 +663,7 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color: var(--global-theme-color);
+        font-size: 0.5rem;
       }
     }
   }
@@ -1116,6 +1117,7 @@ nav[data-toggle="toc"] {
 
       .card-title {
         color: var(--global-theme-color);
+        font-size: 0.5rem;
       }
     }
   }
