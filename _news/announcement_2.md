@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Follow our social media page [here](https://x.com/VARCVPR2025) for latest updates.
+Follow our social media page [here (X)](https://x.com/VARCVPR2025) and [here (bsky)](https://bsky.app/profile/varcvpr2025.bsky.social) for latest updates.
