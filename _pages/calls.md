@@ -20,14 +20,20 @@ We invite contributions on topics relevant to the development of vision-based as
 - Ego-centric video understanding 
 - Language and robot learning
 
-### Important Information
+### Submission Instructions
 
-- **CMT for submissions:** <font color="red">[Coming soon!]</font>
-- **Paper length:** Extended abstracts (4 pages) with additional pages for demo plans.
-- **Dates:**
-	- **Paper Submission Deadline:** May 1st, 2025
-	- **Notification to Authors:** May 15th, 2025
-	- **Camera-ready deadline:** June 1st, 2025
+- **Submission Link:** [CMT](https://cmt3.research.microsoft.com/VAR2025)
+- **Submission Types:** 
+	- **Extended Abstracts**: The maximum page length is four pages, with additional pages for demo plans (if available) and references. We encourage the submission relevant work that are in progress and those that have been previously (recently) published.
+	- **Papers Accepted to CVPR 2025**: Full length (8-page) papers can be submitted, with additional pages for demo plans (if available) and references.
+- **Paper Template:** The CVPR 2025 author kit is available [here](https://github.com/cvpr-org/author-kit/releases). 
+
+All submissions are be non-archival. Supplementary material can be added to the same file (after demo plans and/or references).
+
+### Dates
+- **Paper Submission Deadline:** May 1st, 2025
+- **Notification to Authors:** May 15th, 2025
+- **Camera-ready deadline:** June 1st, 2025
 
 All deadlines are until 11:59 pm Pacific Standard Time (PST).
 
