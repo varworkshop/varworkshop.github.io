@@ -26,6 +26,7 @@ We invite contributions on topics relevant to the development of vision-based as
 - **Submission Types:** 
 	- **Extended Abstracts**: The maximum page length is four pages, with additional pages for demo plans (if available) and references. We encourage the submission relevant work that are in progress and those that have been previously (recently) published.
 	- **Papers Accepted to CVPR 2025**: Full length (8-page) papers can be submitted, with additional pages for demo plans (if available) and references.
+	For both submission types please choose "Extended Abstract" as the subject area.
 - **Paper Template:** The CVPR 2025 author kit is available [here](https://github.com/cvpr-org/author-kit/releases). 
 
 All submissions are be non-archival. Supplementary material can be added to the same file (after demo plans and/or references).
