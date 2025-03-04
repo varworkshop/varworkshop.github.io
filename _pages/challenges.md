@@ -15,7 +15,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 ### Challenge 1: Interactive Feedback Generation
 
-![]({{ "/assets/img/teaser_var_competition_1.jpeg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
+![]({{ "/assets/img/teaser_var_competition_1.jpeg" | relative_url }}){:style="margin:auto; display:block;width:80%"}
 
 This challenge focuses on assisting users through a workout session with interactive feedback. Details:
 - **Evaluation Data:** We base this challenge on the [QEVD](https://www.qualcomm.com/developer/software/qevd-dataset) dataset, as described [here](https://arxiv.org/abs/2407.08101). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ a (private) test set available <font color="red">[soon]</font>. 
@@ -32,15 +32,13 @@ This challenge focuses on assisting users through a workout session with interac
 	```
 	[{“video_file”: <String: name of the evaluation video file>,
 	“feedbacks”: <List[String]: list of predicted feedbacks>,
-	“Feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>}, ...]
+	“feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>}, ...]
 	```
 	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible.
 
-
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge -> Interactive Feedback Generation".
 
-<br/>
-- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The winner will receive a prize along with a contributed talk at the workshop.
+	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The winner will receive a prize along with a contributed talk at the workshop.
 
 
 ### Challenge 2: Interactive Question Answering
