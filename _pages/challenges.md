@@ -12,6 +12,9 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 <font color="red">**The winning teams will receive a prize along with a contributed talk at the workshop.**</font>
 
 ### Challenge 1: Interactive Feedback Generation
+
+![]({{ "/assets/img/teaser_var_competition_1.jpeg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
+
 This challenge focuses on assisting users through a workout session with interactive feedback. Details:
 - **Evaluation Data:** We base this challenge on the [QEVD](https://www.qualcomm.com/developer/software/qevd-dataset) dataset, as described [here](https://arxiv.org/abs/2407.08101). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ a (private) test set available <font color="red">[soon]</font>. 
 
