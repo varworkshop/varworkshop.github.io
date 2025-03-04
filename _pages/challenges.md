@@ -32,6 +32,7 @@ This challenge focuses on assisting users through a workout session with interac
 
 
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge -> Interactive Feedback Generation".
+	
 
 
 - **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The winner will receive a prize along with a contributed talk at the workshop.
