@@ -22,11 +22,11 @@ This challenge focuses on assisting users through a workout session with interac
 
 - **Participation:**
 
-	- **Leaderboard:** Please email the results [here](mailto:var.workshop.cvpr@gmail.com) as a json file along with the team name. The json file should contain the following fields:
+	- **Leaderboard:** Please email the results [here](mailto:var.workshop.cvpr@gmail.com) as a json file along with the team name. The json file should contain a list of python dicts with the the following fields:
 	```
-	“video_file”: <String: name of the evaluation video file>,
+	[{“video_file”: <String: name of the evaluation video file>,
 	“feedbacks”: <List[String]: list of predicted feedbacks>,
-	“Feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>
+	“Feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>}, ...]
 	```
 	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible.
 
