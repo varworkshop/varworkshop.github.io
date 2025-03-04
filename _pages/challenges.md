@@ -9,7 +9,7 @@ nav_order: 3
 
 The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
 
-<font color="red">**The winning teams will receive a prize along with a contributed talk at the workshop.**</font>
+### <font color="red">The winning teams will receive a prize along with a contributed talk at the workshop.</font>
 
 ### Challenge 1: Interactive Feedback Generation
 
