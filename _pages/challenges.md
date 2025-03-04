@@ -11,6 +11,8 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 #### <font color="red">The winning teams will receive a prize along with a contributed talk.</font>
 
+<br/>
+
 ### Challenge 1: Interactive Feedback Generation
 
 ![]({{ "/assets/img/teaser_var_competition_1.jpeg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
@@ -26,7 +28,6 @@ This challenge focuses on assisting users through a workout session with interac
 
 
 - **Participation:**
-
 	- **Leaderboard:** Please email the results [here](mailto:var.workshop.cvpr@gmail.com) as a json file along with the team name. The json file should contain a list of python dicts with the the following fields:
 	```
 	[{“video_file”: <String: name of the evaluation video file>,
@@ -38,8 +39,7 @@ This challenge focuses on assisting users through a workout session with interac
 
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge -> Interactive Feedback Generation".
 
-
-
+<br/>
 - **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The winner will receive a prize along with a contributed talk at the workshop.
 
 
