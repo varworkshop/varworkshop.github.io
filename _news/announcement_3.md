@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [Interactive Feedback Generation](/al-folio/Challenges/) challenge is accepting submissions.
+The [Interactive Feedback Generation](/_pages/challenges/) challenge is accepting submissions.
