@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [Interactive Feedback Generation](https://varworkshop.github.io/challenges/) challenge is accepting submissions.
+The [Interactive Feedback Generation](/al-folio/Challenges/) challenge is accepting submissions.
