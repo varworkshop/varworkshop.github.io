@@ -12,9 +12,9 @@ social: false # includes social icons at the bottom of the page
 
 Computer vision has made immense progress in offline image and video understanding in recent years. In contrast, the ability of an AI system to truly comprehend and reason over a scene that is unfolding in real-time and in the real world is only starting to become reality. Progress in this area can have a huge impact by supporting daily tasks, such as cooking, health, fitness, driving, home improvement, and many others.
 
-This workshop seeks to serve as a forum for discussing recent progress and open challenges towards vision-based assistance for daily tasks and the technology to enable it. The VAR workshop features an exciting lineup of speakers and live demonstrations of existing systems (see [Call for Demos and Papers](/al-folio/Calls/)).
+This workshop seeks to serve as a forum for discussing recent progress and open challenges towards vision-based assistance for daily tasks and the technology to enable it. The VAR workshop features an exciting lineup of speakers and live demonstrations of existing systems (see [Call for Demos and Papers](/_pages/calls.md/)).
 
-Additionally, as there are limited datasets and benchmarks for real-world vision-based assistants, the VAR workshop will host two new challenges designed to foster the development of such systems (see [Challenges](/al-folio/Challenges/)).
+Additionally, as there are limited datasets and benchmarks for real-world vision-based assistants, the VAR workshop will host two new challenges designed to foster the development of such systems (see [Challenges](/_pages/challenges.md)).
 
 <br/>
 
