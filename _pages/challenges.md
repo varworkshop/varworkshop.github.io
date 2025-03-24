@@ -42,8 +42,30 @@ This challenge focuses on assisting users through a workout session with interac
 
 
 ### Challenge 2: Interactive Question Answering
-This challenge tests the ability of vision-based assistants to answer questions asked by a user in a face-to-face setup. 
 
-**Details:** <font color="red">[Coming soon!]</font>
+![]({{ "/assets/img/teaser_var_competition_2.jpeg" | relative_url }}){:style="margin:auto; display:block;width:80%"}
+
+This challenge tests the ability of vision-based assistants to converse face-to-face with a human user. This challenge requires models not only to have robust audio-visual perception but also requires reasoning about scenes and events that are unfolding live in front of the camera.  Details:
+- **Evaluation Data:** We base this challenge on the QIVD dataset, as described here. Specifically, the challenge involves providing (timely) answers to question posed by users in the videos [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/QIVD/videos.zip). The evaluation will be performed based on predicted answers and the associated timestamps. Note that, the questions are not provided and thus need to be infered from the audio associated with each video.
+
+
+- **Training and Validation Data:** We provide a set of in-context examples [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/QIVD/annotations_contest.zip).
+
+
+- **Evaluation Metrics:** We will use the Correctness, BERT, METEOR, BLEU and ROUGE-L scores described here. If you have any questions contact us [here](mailto:var.workshop.cvpr@gmail.com).
+
+
+- **Participation:**
+	- **Leaderboard:** Please email the results [here](mailto:var.workshop.cvpr@gmail.com) as a json file along with the team name. The json file should contain a list of python dicts with the the following fields (see [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/QIVD/annotations_contest.zip) for an example):
+	```
+	[{“video”: <str: name of the evaluation video file>,
+	“answer”: <str: the predicted answet>,
+	“timestamp”: <float: the predicted timestamp assoicated with the answer>}, ...]
+	```
+	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible.
+
+	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge -> Interactive Question Answering".
+
+	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop. The winner will receive a prize along with a contributed talk at the workshop.
 
 
