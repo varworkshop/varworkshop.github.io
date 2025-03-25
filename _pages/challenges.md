@@ -40,6 +40,7 @@ This challenge focuses on assisting users through a workout session with interac
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop. The winner will receive a prize along with a contributed talk at the workshop.
 
+<br/>
 
 ### Challenge 2: Interactive Question Answering
 
