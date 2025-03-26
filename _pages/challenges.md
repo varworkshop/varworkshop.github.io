@@ -47,13 +47,13 @@ This challenge focuses on assisting users through a workout session with interac
 ![]({{ "/assets/img/teaser_var_competition_2.jpeg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
 
 This challenge tests the ability of vision-based assistants to converse face-to-face with a human user. This challenge requires models not only to have robust audio-visual perception but also requires reasoning about scenes and events that are unfolding live in front of the camera.  Details:
-- **Evaluation Data:** We base this challenge on the QIVD dataset, as described here. Specifically, the challenge involves providing (timely) answers to question posed by users in the videos [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/QIVD/videos.zip). The evaluation will be performed based on predicted answers and the associated timestamps. Note that, the questions are not provided and thus need to be infered from the audio associated with each video.
+- **Evaluation Data:** We base this challenge on the QIVD dataset, as described [here](https://arxiv.org/pdf/2503.19356). Specifically, the challenge involves providing (timely) answers to question posed by users in the videos [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/QIVD/videos.zip). The evaluation will be performed based on predicted answers and the associated timestamps. Note that, the questions are not provided and thus need to be infered from the audio associated with each video.
 
 
 - **Training and Validation Data:** We provide a set of in-context examples [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/QIVD/annotations_contest.zip).
 
 
-- **Evaluation Metrics:** We will use the Correctness, BERT, METEOR, BLEU and ROUGE-L scores described here. If you have any questions contact us [here](mailto:var.workshop.cvpr@gmail.com).
+- **Evaluation Metrics:** We will use the Correctness, BERT, METEOR, BLEU and ROUGE-L scores described [here](https://arxiv.org/pdf/2503.19356). If you have any questions contact us [here](mailto:var.workshop.cvpr@gmail.com).
 
 
 - **Participation:**
