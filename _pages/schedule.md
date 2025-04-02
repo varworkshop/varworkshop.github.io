@@ -17,13 +17,13 @@ The workshop will be held in person at CVPR 2025 at the Music City Center, Nashv
 
 | Time Slot    | Event                      |
 | :---------- | :------------------------- |
-| 08:45-09:00 | Welcome and Introduction    |
-| 09:00-09:30 | Keynote 1                  |
-| 09:30-10:00 | Keynote 2                  |
-| 10:00-10:40 | Demos, Posters and Coffee |
-| 10:40-11:10 | Keynote 3                  |
-| 11:10-11:40 | Keynote 4                  |
-| 11:40-12:15 | Challenge Results          |
-| 12:15-13:00 | Panel Discussion            |
-| 13:00-13:15 | Closing Remarks             |
+| 13:30-13:45 | Welcome and Introduction    |
+| 13:45-14:15 | Keynote 1                  |
+| 14:15-14:45 | Keynote 2                  |
+| 14:45-15:25 | Demos, Posters and Coffee |
+| 15:25-15:55 | Keynote 3                  |
+| 15:55-16:25 | Keynote 4                  |
+| 16:25-17:00 | Challenge Results          |
+| 17:00-17:45 | Panel Discussion            |
+| 17:45-18:00 | Closing Remarks             |
 
