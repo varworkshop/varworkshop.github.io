@@ -9,8 +9,8 @@ nav_order: 3
 
 The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
 
--  <font color="blue">**The winning teams will receive a prize and are invited to present their solution in a contributed talk.**</font>
--  <font color="red">**Deadline: June 1, 2025.**</font>
+-  <font color="blue"><b>he winning teams will receive a prize and are invited to present their solution in a contributed talk.</b></font>
+-  <font color="red"><b>Deadline: June 1, 2025.</b></font>
 
 <br/>
 
