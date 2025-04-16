@@ -11,8 +11,6 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 #### <font color="blue">The winning teams will receive a prize and are invited to present their solution in a contributed talk.</font>
 
-<br/>
-
 #### <font color="red">Deadline: June 1, 2025.</font>
 
 <br/>
