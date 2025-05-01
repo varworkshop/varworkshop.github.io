@@ -31,8 +31,8 @@ We invite contributions on topics relevant to the development of vision-based as
 All submissions are be non-archival. Supplementary material can be added to the same file (after demo plans and/or references).
 
 ### Dates
-- **Paper Submission Deadline:** May 1st, 2025
-- **Notification to Authors:** May 15th, 2025
+- **Paper Submission Deadline:** May 3rd, 2025 ~~May 1st, 2025~~
+- **Notification to Authors:** May 16th, 2025 ~~May 15th, 2025~~
 - **Camera-ready deadline:** June 1st, 2025
 
 All deadlines are until 11:59 pm Pacific Standard Time (PST).
