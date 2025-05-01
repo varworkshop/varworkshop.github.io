@@ -399,7 +399,10 @@ ninja.data = [{
           description: "Qualcomm AI Research",
           section: "Challenge_organizers",handler: () => {
               window.location.href = "/challenge_organizers/2_project/";
-            },},{id: "news-follow-our-social-media-page-x-twitter-and-bsky-for-latest-updates",
+            },},{id: "news-the-paper-submission-deadline-has-been-extended-to-may-3rd-2025",
+          title: 'The paper submission deadline has been extended to May 3rd, 2025.',
+          description: "",
+          section: "News",},{id: "news-follow-our-social-media-page-x-twitter-and-bsky-for-latest-updates",
           title: 'Follow our social media page X (twitter) and bsky for latest updates.',
           description: "",
           section: "News",},{id: "news-the-interactive-feedback-generation-challenge-is-accepting-submissions",
@@ -407,9 +410,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-the-interactive-question-answering-challenge-is-accepting-submissions",
           title: 'The Interactive Question Answering challenge is accepting submissions.',
-          description: "",
-          section: "News",},{id: "news-the-paper-submission-deadline-has-been-extended-to-may-3rd-2025",
-          title: 'The paper submission deadline has been extended to May 3rd, 2025.',
           description: "",
           section: "News",},{id: "organizers-apratim-bhattacharyya",
           title: 'Apratim Bhattacharyya',
