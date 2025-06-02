@@ -4,7 +4,7 @@ permalink: /challenges/
 title: Challenges
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
