@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule/
-title: Program
+title: Program and Papers
 description: 
 nav: true
 nav_order: 2
