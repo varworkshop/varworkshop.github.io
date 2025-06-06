@@ -37,7 +37,7 @@ Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in 
 DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos
 <br/>
 *Lorenzo Mur-Labadia, Ruben Martinez-Cantin, Josechu Guerrero*<br/>
-[pdf](/assets/pdf/2.pdf)
+[pdf](/assets/pdf/2.pdf) | [code](https://github.com/lmur98/DIV_FF_CVPR)
 
 LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos
 <br/>
@@ -64,7 +64,7 @@ Not Only Text: Exploring Compositionality of Visual Representations in Vision-La
 HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction
 <br/>
 *Chen Bao, Jiarui Xu, Xiaolong Wang, Abhinav Gupta, Homanga Bharadhwaj*<br/>
-[pdf](/assets/pdf/8.pdf)
+[pdf](/assets/pdf/8.pdf) | [code](https://github.com/Kami-code/HandsOnVLM-release) | [video](https://www.chenbao.tech/handsonvlm/)
 
 Learning to Perceive and Act: Active Event Understanding via Predictive Free Energy Minimization
 <br/>
@@ -74,7 +74,7 @@ Learning to Perceive and Act: Active Event Understanding via Predictive Free Ene
 LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale
 <br/>
 *Joya Chen, Ziyun Zeng, Yiqi Lin, Wei Li, Zejun Ma, Mike Zheng Shou*<br/>
-[pdf](/assets/pdf/10.pdf)
+[pdf](/assets/pdf/10.pdf) | [code](https://github.com/showlab/livecc) | [video](https://showlab.github.io/livecc/)
 
 InteractFormer: Modeling Agent Interactions for Multi-Agent Action Anticipation
 <br/>
@@ -84,17 +84,17 @@ InteractFormer: Modeling Agent Interactions for Multi-Agent Action Anticipation
 Vision-Language Models Do Not Understand Negation
 <br/>
 *Kumail Alhamoud, Shaden Alshammari, Yonglong Tian, Guohao Li, Philip Torr, Yoon Kim, Marzyeh Ghassemi*<br/>
-[pdf](/assets/pdf/13.pdf)
+[pdf](/assets/pdf/13.pdf) | [code](https://github.com/m1k2zoo/negbench) | [video](https://www.youtube.com/watch?v=oOJxwlKUE8M)
 
 VisionZip: Longer is Better but Not Necessary in Vision Language Models
 <br/>
 *Senqiao Yang*<br/>
-[pdf](/assets/pdf/14.pdf)
+[pdf](/assets/pdf/14.pdf) | [code](https://github.com/dvlab-research/VisionZip) | [video](https://youtu.be/sytaAzmxxpo?si=IieArmQ7YNf2dVyM)
 
 Vision-Language Guided Object Localization in Mixed Reality
 <br/>
 *Han Xi, Ard Kastrati, Dushan Vasilevski, Roger Wattenhofer*<br/>
-[pdf](/assets/pdf/15.pdf)
+[pdf](/assets/pdf/15.pdf) | [video](https://youtu.be/XmQUBR-jZgQ)
 
 Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos
 <br/>
@@ -104,7 +104,7 @@ Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in
 Vid2Coach: Transforming How-To Videos into Task Assistants
 <br/>
 *Mina Huh, Zihui Xue, Ujjaini Das, Kumar Ashutosh, Kristen Grauman, Amy Pavel*<br/>
-[pdf](/assets/pdf/17.pdf)
+[pdf](/assets/pdf/17.pdf) | [video](https://www.youtube.com/watch?v=M0j2TmezItI)
 
 Plan-Action-Reflection: A Three-Role Agentic Framework For Computer Use Agent Task
 <br/>
