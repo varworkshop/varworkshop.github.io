@@ -10,7 +10,7 @@ nav_order: 2
 - **Date:** June 11, 2025
 - **Location:** Room 211 (Level 2), Music City Center, Nashville
 
-All times are in local time zone, Eastern Daylight Time (EDT).
+All times are in local time zone, Central Daylight Time (CDT).
 
 
 ### Tentative Workshop Schedule
