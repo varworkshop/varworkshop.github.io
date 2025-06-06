@@ -8,9 +8,9 @@ nav_order: 2
 ---
 
 - **Date:** June 11, 2025
-- **Location:** Room 211 (Level 2), Music City Center
+- **Location:** Room 211 (Level 2), Music City Center, Nashville
 
-The workshop will be held in person at CVPR 2025 at the Music City Center, Nashville. The schedule is currently tentative and will become clear over time. All times are in local time zone, Eastern Daylight Time (EDT).
+All times are in local time zone, Eastern Daylight Time (EDT).
 
 
 ### Tentative Workshop Schedule
