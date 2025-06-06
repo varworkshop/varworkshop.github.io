@@ -31,67 +31,83 @@ The workshop will be held in person at CVPR 2025 at the Music City Center, Nashv
 ### Accepted Papers
 Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities
 <br/>
-*Michele Mazzamuto*
+*Michele Mazzamuto*<br/>
+[pdf](/assets/pdf/1.pdf)
 
 DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos
 <br/>
-*Lorenzo Mur-Labadia, Ruben Martinez-Cantin, Josechu Guerrero*
+*Lorenzo Mur-Labadia, Ruben Martinez-Cantin, Josechu Guerrero*<br/>
+[pdf](/assets/pdf/2.pdf)
 
 LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos
 <br/>
-*TianTian Geng, Jinrui Zhang, Qingni Wang, Teng Wang, Jinming Duan, Feng Zheng*
+*TianTian Geng, Jinrui Zhang, Qingni Wang, Teng Wang, Jinming Duan, Feng Zheng*<br/>
+[pdf](/assets/pdf/4.pdf)
 
 EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering
 <br/>
-*Sheng Zhou, Junbin Xiao, Qingyun Li, Yicong Li, Xun Yang, Dan Guo, Meng Wang, Tat-Seng Chua, Angela Yao*
+*Sheng Zhou, Junbin Xiao, Qingyun Li, Yicong Li, Xun Yang, Dan Guo, Meng Wang, Tat-Seng Chua, Angela Yao*<br/>
+[pdf](/assets/pdf/5.pdf)
 
 MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research
 <br/>
 *James Burgess, Jeffrey Nirschl, Laura Bravo-Sánchez, Alejandro Lozano, Sanket Gupte, Jesus Galaz-Montoya, Yuhui Zhang, Yuchang Su, Disha Bhowmik, Zachary Coman,
 Sarina Hasan, Alexandra Johannesson, William Leineweber, Malvika Nair, Ridhi Yarlagadda, Connor Zuraski, Wah Chiu, Sarah Cohen, Jan Hansen, Manuel Leonetti, Chad Liu,
-Emma Lundberg, Serena Yeung-Levy*
+Emma Lundberg, Serena Yeung-Levy*<br/>
+[pdf](/assets/pdf/6.pdf)
 
 Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models
 <br/>
-*Davide Berasi, Matteo Farina, Massimiliano Mancini, Elisa Ricci, Nicola Strisciuglio*
+*Davide Berasi, Matteo Farina, Massimiliano Mancini, Elisa Ricci, Nicola Strisciuglio*<br/>
+[pdf](/assets/pdf/7.pdf)
 
 HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction
 <br/>
-*Chen Bao, Jiarui Xu, Xiaolong Wang, Abhinav Gupta, Homanga Bharadhwaj*
+*Chen Bao, Jiarui Xu, Xiaolong Wang, Abhinav Gupta, Homanga Bharadhwaj*<br/>
+[pdf](/assets/pdf/8.pdf)
 
 Learning to Perceive and Act: Active Event Understanding via Predictive Free Energy Minimization
 <br/>
-*Zhou Chen, Sanjoy Kundun, Harsimran Baweja, Sathyanarayanan Aakur*
+*Zhou Chen, Sanjoy Kundun, Harsimran Baweja, Sathyanarayanan Aakur*<br/>
+[pdf](/assets/pdf/9.pdf)
 
 LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale
 <br/>
-*Joya Chen, Ziyun Zeng, Yiqi Lin, Wei Li, Zejun Ma, Mike Zheng Shou*
+*Joya Chen, Ziyun Zeng, Yiqi Lin, Wei Li, Zejun Ma, Mike Zheng Shou*<br/>
+[pdf](/assets/pdf/10.pdf)
 
 InteractFormer: Modeling Agent Interactions for Multi-Agent Action Anticipation
 <br/>
-*Yiqi Jin, Simon Stepputtis, Katia Sycara, Yaqi Xie*
+*Yiqi Jin, Simon Stepputtis, Katia Sycara, Yaqi Xie*<br/>
+[pdf](/assets/pdf/12.pdf)
 
 Vision-Language Models Do Not Understand Negation
 <br/>
-*Kumail Alhamoud, Shaden Alshammari, Yonglong Tian, Guohao Li, Philip Torr, Yoon Kim, Marzyeh Ghassemi*
+*Kumail Alhamoud, Shaden Alshammari, Yonglong Tian, Guohao Li, Philip Torr, Yoon Kim, Marzyeh Ghassemi*<br/>
+[pdf](/assets/pdf/13.pdf)
 
 VisionZip: Longer is Better but Not Necessary in Vision Language Models
 <br/>
-*Senqiao Yang*
+*Senqiao Yang*<br/>
+[pdf](/assets/pdf/14.pdf)
 
 Vision-Language Guided Object Localization in Mixed Reality
 <br/>
-*Han Xi, Ard Kastrati, Dushan Vasilevski, Roger Wattenhofer*
+*Han Xi, Ard Kastrati, Dushan Vasilevski, Roger Wattenhofer*<br/>
+[pdf](/assets/pdf/15.pdf)
 
 Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos
 <br/>
-*Sagnik Majumder, Tushar Nagarajan, Ziad Al-Halah, Reina Pradhan, Kristen Grauman*
+*Sagnik Majumder, Tushar Nagarajan, Ziad Al-Halah, Reina Pradhan, Kristen Grauman*<br/>
+[pdf](/assets/pdf/16.pdf)
 
 Vid2Coach: Transforming How-To Videos into Task Assistants
 <br/>
-*Mina Huh, Zihui Xue, Ujjaini Das, Kumar Ashutosh, Kristen Grauman, Amy Pavel*
+*Mina Huh, Zihui Xue, Ujjaini Das, Kumar Ashutosh, Kristen Grauman, Amy Pavel*<br/>
+[pdf](/assets/pdf/17.pdf)
 
 Plan-Action-Reflection: A Three-Role Agentic Framework For Computer Use Agent Task
 <br/>
-*Xin Su, Man Luo, David Cobbley, Shachar Rosenman, Vasudev Lal, Phillip Howard*
+*Xin Su, Man Luo, David Cobbley, Shachar Rosenman, Vasudev Lal, Phillip Howard*<br/>
+[pdf](/assets/pdf/18.pdf)
 
