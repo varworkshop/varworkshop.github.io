@@ -28,12 +28,15 @@ table {
   th {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
-    border: 1px solid #dee2e6; // You can change the color here
   }
 
   th {
     font-weight: bold;
   }
+}
+
+table, th, td {
+  border: 1px solid #dee2e6;
 }
 
 a,
