@@ -27,7 +27,7 @@ nav_order: 2
 {:.table-bordered}
 
 
-All times are in local time zone, Central Daylight Time (CDT).
+<br/>All times are in local time zone, Central Daylight Time (CDT).
 <br/>
 
 ### Accepted Demos
