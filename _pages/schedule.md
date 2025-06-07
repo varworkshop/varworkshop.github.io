@@ -7,7 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-### Tentative Workshop Schedule
+### Location and Schedule
+- **Date:** June 11, 2025
+- **Workshop/Demo Location:** Room 211 (Level 2). Table available for demo setup.
+- **Poster Location:** Poster boards #205 - #216,  ExHall D. Organizers will be in ExHall D to assist.
 
 | Time Slot    | Event                      |
 | :---------- | :------------------------- |
@@ -21,10 +24,6 @@ nav_order: 2
 | 16:45-17:00 | Demos          |
 | 17:00-17:50 | Panel Discussion            |
 | 17:50-18:00 | Closing Remarks             |
-
-- **Date:** June 11, 2025
-- **Workshop/Demo Location:** Room 211 (Level 2). Table available for demo setup.
-- **Poster Location:** Poster boards #205 - #216,  ExHall D. Organizers will be in ExHall D to assist.
 
 All times are in local time zone, Central Daylight Time (CDT).
 
