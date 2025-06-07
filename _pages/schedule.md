@@ -7,12 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-- **Date:** June 11, 2025
-- **Location:** Room 211 (Level 2), Music City Center, Nashville
-
-All times are in local time zone, Central Daylight Time (CDT).
-
-
 ### Tentative Workshop Schedule
 
 | Time Slot    | Event                      |
@@ -26,6 +20,12 @@ All times are in local time zone, Central Daylight Time (CDT).
 | 16:30-17:00 | Challenge Results          |
 | 17:00-17:50 | Panel Discussion            |
 | 17:50-18:00 | Closing Remarks             |
+<br/>
+
+- **Date:** June 11, 2025
+- **Location:** Room 211 (Level 2), Music City Center, Nashville
+
+All times are in local time zone, Central Daylight Time (CDT).
 
 <br/>
 ### Accepted Demos
