@@ -24,6 +24,7 @@ nav_order: 2
 | 16:45-17:00 | Demos          |
 | 17:00-17:50 | Panel Discussion            |
 | 17:50-18:00 | Closing Remarks             |
+{:.table-bordered}
 
 
 All times are in local time zone, Central Daylight Time (CDT).
