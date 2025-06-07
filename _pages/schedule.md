@@ -37,6 +37,7 @@ nav_order: 2
 *Joya Chen, Ziyun Zeng, Yiqi Lin, Wei Li, Zejun Ma, Mike Zheng Shou*<br/>
 
 <br/>
+
 ### Accepted Papers: Extended Abstracts
 **HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**
 <br/>
@@ -70,6 +71,7 @@ nav_order: 2
 
 
 <br/>
+
 ### Accepted Papers: CVPR Full Papers
 **Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities**
 <br/>
