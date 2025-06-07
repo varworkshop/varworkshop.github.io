@@ -26,6 +26,7 @@ nav_order: 2
 | 17:50-18:00 | Closing Remarks             |
 
 <br/>
+
 ### Accepted Demos
 **Vision-Language Guided Object Localization in Mixed Reality**
 <br/>
