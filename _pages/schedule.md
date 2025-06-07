@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ### Location and Schedule
-- **Date:** June 11, 2025
+- **Date and Time:** June 11, 2025 (All times are in local time zone, Central Daylight Time (CDT).).
 - **Workshop/Demo Location:** Room 211 (Level 2). Table available for demo setup.
 - **Poster Location:** Poster boards #205 - #216,  ExHall D. Organizers will be in ExHall D to assist.
 
@@ -24,8 +24,6 @@ nav_order: 2
 | 16:45-17:00 | Demos          |
 | 17:00-17:50 | Panel Discussion            |
 | 17:50-18:00 | Closing Remarks             |
-
-All times are in local time zone, Central Daylight Time (CDT).
 
 <br/>
 ### Accepted Demos
