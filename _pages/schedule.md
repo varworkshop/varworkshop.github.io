@@ -20,8 +20,7 @@ nav_order: 2
 | 14:45-15:30 | Posters, Demos and Coffee |
 | 15:30-16:00 | Keynote: Ani Kembhavi     |
 | 16:00-16:30 | Keynote: Marc Pollefeys   |
-| 16:30-16:45 | Challenge Results          |
-| 16:45-17:00 | Demos          |
+| 16:30-17:00 | Challenge Results          |
 | 17:00-17:50 | Panel Discussion            |
 | 17:50-18:00 | Closing Remarks             |
 {:.table-bordered}
