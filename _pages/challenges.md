@@ -51,7 +51,7 @@ This challenge focuses on assisting users through a workout session with interac
 | Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
 {:.table-bordered}
 
-**Results: Best Challenge Submission**
+<br/>**Results: Best Challenge Submission**
 
 | Team        | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :------------ | :------ | :------- | :---- | :------- | :--------- |
@@ -98,7 +98,7 @@ This challenge tests the ability of vision-based assistants to converse face-to-
 | Qwen2.5-VL-7B   | **53.55** | 87.17   | 34.95   | 3.88    | 26.52    | 1.14    |
 {:.table-bordered}
 
-**Results: Best Challenge Submission**
+<br/>**Results: Best Challenge Submission**
 
 | Team   | Corr↑ | BERT↑ | METEOR↑ | BLEU↑ | ROUGE-L↑ | T-Diff↓ |
 | :------- | :---- | :---- | :------ | :---- | :------- | :------ |
