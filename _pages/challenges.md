@@ -43,17 +43,17 @@ This challenge focuses on assisting users through a workout session with interac
 
  - **Results:**
 	- ** Open Source Models: **
-	| Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
-	| :----------------- | :------ | :------- | :---- | :------- | :--------- |
-	| VideoChat2         | 0.104   | 0.048    | 0.846 | 2.145    | 0.555      |
-	| VideoLLaMA3-7B     | 0.150   | 0.076    | 0.859 | 2.554    | 0.555      |
-	| Qwen-2-VL-Instruct | **0.185** | **0.089** | **0.861** | 2.851    | 0.555      |
-	| Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
+		| Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
+		| :----------------- | :------ | :------- | :---- | :------- | :--------- |
+		| VideoChat2         | 0.104   | 0.048    | 0.846 | 2.145    | 0.555      |
+		| VideoLLaMA3-7B     | 0.150   | 0.076    | 0.859 | 2.554    | 0.555      |
+		| Qwen-2-VL-Instruct | **0.185** | **0.089** | **0.861** | 2.851    | 0.555      |
+		| Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
 
 	- ** Best Challenge Submission: **
-	| Team        | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
-	| :------------ | :------ | :------- | :---- | :------- | :--------- |
-	| [Lucas Ventura](https://lucasventura.com/) | 0.156   | **0.101** | **0.861** | 2.087    | 0.535      |
+		| Team        | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
+		| :------------ | :------ | :------- | :---- | :------- | :--------- |
+		| [Lucas Ventura](https://lucasventura.com/) | 0.156   | **0.101** | **0.861** | 2.087    | 0.535      |
 
 <br/>
 
@@ -86,17 +86,17 @@ This challenge tests the ability of vision-based assistants to converse face-to-
 
  - - **Results:**
 	- ** Open Source Models: **
-	| Method          | Corr↑   | BERT↑   | METEOR↑ | BLEU↑   | ROUGE-L↑ | T-Diff↓ |
-	| :-------------- | :------ | :------ | :------ | :------ | :------- | :------ |
-	| VideoLLaMA      | 33.52   | 89.50   | 39.06   | 7.62    | 30.84    | 1.14    |
-	| VideoLLaMA2-7B  | 44.31   | 91.18   | **47.20** | 13.93   | 40.63    | 1.14    |
-	| VideoLLaMA2-72B | 47.69   | **91.42** | 46.58   | **14.03** | **41.70** | 1.14    |
-	| VideoLLaMA3-7B  | 52.31   | 90.92   | 45.20   | 11.21   | 40.54    | 1.14    |
-	| Qwen2.5-VL-7B   | **53.55** | 87.17   | 34.95   | 3.88    | 26.52    | 1.14    |
+		| Method          | Corr↑   | BERT↑   | METEOR↑ | BLEU↑   | ROUGE-L↑ | T-Diff↓ |
+		| :-------------- | :------ | :------ | :------ | :------ | :------- | :------ |
+		| VideoLLaMA      | 33.52   | 89.50   | 39.06   | 7.62    | 30.84    | 1.14    |
+		| VideoLLaMA2-7B  | 44.31   | 91.18   | **47.20** | 13.93   | 40.63    | 1.14    |
+		| VideoLLaMA2-72B | 47.69   | **91.42** | 46.58   | **14.03** | **41.70** | 1.14    |
+		| VideoLLaMA3-7B  | 52.31   | 90.92   | 45.20   | 11.21   | 40.54    | 1.14    |
+		| Qwen2.5-VL-7B   | **53.55** | 87.17   | 34.95   | 3.88    | 26.52    | 1.14    |
 
 	- ** Best Challenge Submission: **
-	| Team   | Corr↑ | BERT↑ | METEOR↑ | BLEU↑ | ROUGE-L↑ | T-Diff↓ |
-	| :------- | :---- | :---- | :------ | :---- | :------- | :------ |
-	| HNU-VPAI | 54.27 | 92.49 | 48.24   | 14.61 | 45.20    | 1.09    |
+		| Team   | Corr↑ | BERT↑ | METEOR↑ | BLEU↑ | ROUGE-L↑ | T-Diff↓ |
+		| :------- | :---- | :---- | :------ | :---- | :------- | :------ |
+		| HNU-VPAI | 54.27 | 92.49 | 48.24   | 14.61 | 45.20    | 1.09    |
 
 
