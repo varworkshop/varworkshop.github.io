@@ -42,6 +42,7 @@ This challenge focuses on assisting users through a workout session with interac
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop. The winner will receive a prize along with a contributed talk at the workshop.
 
  **Results: Open Source Models:**
+ 
 | Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
 | VideoChat2         | 0.104   | 0.048    | 0.846 | 2.145    | 0.555      |
@@ -50,6 +51,7 @@ This challenge focuses on assisting users through a workout session with interac
 | Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
 
 **Results: Best Challenge Submission:**
+
 | Team        | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :------------ | :------ | :------- | :---- | :------- | :--------- |
 | [Lucas Ventura](https://lucasventura.com/) | 0.156   | **0.101** | **0.861** | 2.087    | 0.535      |
@@ -84,6 +86,7 @@ This challenge tests the ability of vision-based assistants to converse face-to-
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop. The winner will receive a prize along with a contributed talk at the workshop.
 
 **Results: Open Source Models:**
+
 | Method          | Corr↑   | BERT↑   | METEOR↑ | BLEU↑   | ROUGE-L↑ | T-Diff↓ |
 | :-------------- | :------ | :------ | :------ | :------ | :------- | :------ |
 | VideoLLaMA      | 33.52   | 89.50   | 39.06   | 7.62    | 30.84    | 1.14    |
@@ -93,6 +96,7 @@ This challenge tests the ability of vision-based assistants to converse face-to-
 | Qwen2.5-VL-7B   | **53.55** | 87.17   | 34.95   | 3.88    | 26.52    | 1.14    |
 
 **Results: Best Challenge Submission:**
+
 | Team   | Corr↑ | BERT↑ | METEOR↑ | BLEU↑ | ROUGE-L↑ | T-Diff↓ |
 | :------- | :---- | :---- | :------ | :---- | :------- | :------ |
 | HNU-VPAI | 54.27 | 92.49 | 48.24   | 14.61 | 45.20    | 1.09    |
