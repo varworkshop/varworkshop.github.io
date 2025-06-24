@@ -102,7 +102,7 @@ This challenge tests the ability of vision-based assistants to converse face-to-
 
 | Team   | Corr↑ | BERT↑ | METEOR↑ | BLEU↑ | ROUGE-L↑ | T-Diff↓ |
 | :------- | :---- | :---- | :------ | :---- | :------- | :------ |
-| HNU-VPAI | 54.27 | 92.49 | 48.24   | 14.61 | 45.20    | 1.09    |
+| HNU-VPAI* | 54.27 | 92.49 | 48.24   | 14.61 | 45.20    | 1.09    |
 {:.table-bordered}
 
-
+*Zhiyu Wang, Puhong Duan, Wang Liu, Bin Sun, Xudong Kang, Shutao Li — Hunan University, Weikang Yu — Helmholtz-Zentrum Dresden-Rossendorf (HZDR) and Technical University of Munich (TUM)
