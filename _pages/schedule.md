@@ -64,7 +64,7 @@ nav_order: 2
 **Vid2Coach: Transforming How-To Videos into Task Assistants**
 <br/>
 *Mina Huh, Zihui Xue, Ujjaini Das, Kumar Ashutosh, Kristen Grauman, Amy Pavel*<br/>
-[pdf](/assets/pdf/17.pdf) | [video](https://www.youtube.com/watch?v=M0j2TmezItI)
+[pdf](/assets/pdf/17.pdf) | [arXiv](https://arxiv.org/abs/2506.00717) | [video](https://www.youtube.com/watch?v=M0j2TmezItI)
 
 **Plan-Action-Reflection: A Three-Role Agentic Framework For Computer Use Agent Task**
 <br/>
