@@ -16,6 +16,8 @@ This workshop seeks to serve as a forum for discussing recent progress and open 
 
 Additionally, as there are limited datasets and benchmarks for real-world vision-based assistants, the VAR workshop will host two new challenges designed to foster the development of such systems (see [Challenges](https://varworkshop.github.io/challenges/)).
 
+Previous edition at CVPR 2025 can be accessed [here](https://varworkshop.github.io/2025/).
+
 <br/>
 
 ## News 
