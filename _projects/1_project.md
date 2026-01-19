@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ani Kembhavi
-img: assets/img/speakers/ani_kembhavi.jpg
+title: Katerina Fragkiadaki
+img: assets/img/speakers/katerina_fragkiadaki.jpg
 importance: 1
-redirect: https://anikem.github.io/
+redirect: https://www.cs.cmu.edu/~katef/
 category: work
-description: Wayve
+description: CMU
 related_publications: false
 ---

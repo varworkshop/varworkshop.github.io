@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kate Saenko
-img: assets/img/speakers/kate_saenko.jpg
-description: Boston University, FAIR
+title: Wenhu Chen
+img: assets/img/speakers/wenhu_chen.jpg
+description: University of Waterloo
 importance: 2
-redirect: https://www.bu.edu/cs/profiles/saenko/
+redirect: https://wenhuchen.github.io/
 category: work
 giscus_comments: false
 ---
