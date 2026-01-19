@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/schedule/";
           },
+        },{id: "nav-program-and-papers",
+          title: "Program and Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/schedule/";
+          },
         },{id: "nav-calls",
           title: "Calls",
           description: "",
@@ -429,34 +436,34 @@ ninja.data = [{
           description: "Meta Reality Labs",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/3_project/";
-            },},{id: "organizers-edoardo-remelli",
-          title: 'Edoardo Remelli',
-          description: "Meta Reality Labs",
-          section: "Organizers",handler: () => {
-              window.location.href = "/organizers/4_project/";
             },},{id: "organizers-fadime-sener",
           title: 'Fadime Sener',
           description: "Meta Reality Labs",
           section: "Organizers",handler: () => {
-              window.location.href = "/organizers/5_project/";
+              window.location.href = "/organizers/4_project/";
             },},{id: "organizers-guodong-ding",
           title: 'Guodong Ding',
           description: "National U. of Singapore",
           section: "Organizers",handler: () => {
+              window.location.href = "/organizers/5_project/";
+            },},{id: "organizers-leonid-sigal",
+          title: 'Leonid Sigal',
+          description: "University of British Columbia",
+          section: "Organizers",handler: () => {
               window.location.href = "/organizers/6_project/";
+            },},{id: "organizers-rajeev-yasarla",
+          title: 'Rajeev Yasarla',
+          description: "Qualcomm AI Research",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/7_project/";
             },},{id: "organizers-roland-memisevic",
           title: 'Roland Memisevic',
           description: "Qualcomm AI Research",
           section: "Organizers",handler: () => {
-              window.location.href = "/organizers/7_project/";
-            },},{id: "organizers-shugao-ma",
-          title: 'Shugao Ma',
-          description: "Meta Reality Labs",
-          section: "Organizers",handler: () => {
               window.location.href = "/organizers/8_project/";
             },},{id: "organizers-shweta-mahajan",
           title: 'Shweta Mahajan',
-          description: "Qualcomm AI Research",
+          description: "York University",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/9_project/";
             },},{id: "projects-katerina-fragkiadaki",
