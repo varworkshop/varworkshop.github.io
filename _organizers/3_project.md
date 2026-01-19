@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Bugra Tekin
-description: Meta Reality Labs
-img: assets/img/organizers/bugra_tekin.jpeg
-redirect: https://btekin.github.io/
+title: Shweta Mahajan
+description: York University
+img: assets/img/organizers/shweta_mahajan.png
 importance: 3
+redirect: https://s-mahajan.github.io/
 category: work
+giscus_comments: false
 ---

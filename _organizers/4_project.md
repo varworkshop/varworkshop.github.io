@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Fadime Sener
-description: Meta Reality Labs
-img: assets/img/organizers/fadime_sener.jpg
+title: Roland Memisevic
+description: Qualcomm AI Research
+img: assets/img/organizers/roland_memisevic.jpg
+redirect: https://scholar.google.com/citations?user=8oJl5P0AAAAJ&hl=en
 importance: 4
-redirect: https://fadimesener.github.io/
 category: work
-related_publications: false
 ---

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Rajeev Yasarla
-description: Qualcomm AI Research
-img: assets/img/organizers/rajeev_yasarla.jpg
-redirect: https://scholar.google.com/citations?user=R8dwrxEAAAAJ
+title: Bugra Tekin
+description: Meta Reality Labs
+img: assets/img/organizers/bugra_tekin.jpeg
+redirect: https://btekin.github.io/
 importance: 7
 category: work
 ---

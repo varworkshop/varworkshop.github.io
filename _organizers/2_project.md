@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Angela Yao
+title: Guodong Ding
 description: National U. of Singapore
-img: assets/img/organizers/angela_yao.jpg
+img: assets/img/organizers/guodong_ding.jpeg
+redirect: https://guodongding.cn/
 importance: 2
-redirect: https://www.comp.nus.edu.sg/~ayao/
 category: work
-giscus_comments: false
 ---

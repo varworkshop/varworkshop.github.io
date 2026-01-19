@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Shweta Mahajan
-description: York University
-img: assets/img/organizers/shweta_mahajan.png
+title: Rajeev Yasarla
+description: Qualcomm AI Research
+img: assets/img/organizers/rajeev_yasarla.jpg
+redirect: https://scholar.google.com/citations?user=R8dwrxEAAAAJ
 importance: 9
-redirect: https://s-mahajan.github.io/
 category: work
-giscus_comments: false
 ---
