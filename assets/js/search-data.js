@@ -459,26 +459,36 @@ ninja.data = [{
           description: "Qualcomm AI Research",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/9_project/";
-            },},{id: "projects-ani-kembhavi",
-          title: 'Ani Kembhavi',
-          description: "Wayve",
+            },},{id: "projects-katerina-fragkiadaki",
+          title: 'Katerina Fragkiadaki',
+          description: "CMU",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-kate-saenko",
-          title: 'Kate Saenko',
-          description: "Boston University, FAIR",
+            },},{id: "projects-wenhu-chen",
+          title: 'Wenhu Chen',
+          description: "University of Waterloo",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-marc-pollefeys",
-          title: 'Marc Pollefeys',
-          description: "ETH Zurich, Microsoft",
+            },},{id: "projects-kris-m-kitani",
+          title: 'Kris M. Kitani',
+          description: "CMU",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-mike-shou",
-          title: 'Mike Shou',
-          description: "National U. of Singapore",
+            },},{id: "projects-ziwei-liu",
+          title: 'Ziwei Liu',
+          description: "Nanyang Technological University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-yao-qin",
+          title: 'Yao Qin',
+          description: "UC Santa Barbara",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-mario-fritz",
+          title: 'Mario Fritz',
+          description: "CISPA Helmholtz Center for Information Security",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
