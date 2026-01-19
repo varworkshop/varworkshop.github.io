@@ -8,7 +8,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-![]({{ "/assets/img/cvpr2025_nashville_tn.jpeg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
+![]({{ "/assets/img/cvpr2026_denver_co.jpg" | relative_url }}){:style="margin:auto; display:block;width:100%"}
 
 Computer vision has made immense progress in offline image and video understanding in recent years. In contrast, the ability of an AI system to truly comprehend and reason over a scene that is unfolding in real-time and in the real world is only starting to become reality. Progress in this area can have a huge impact by supporting daily tasks, such as cooking, health, fitness, driving, home improvement, and many others.
 
@@ -109,6 +109,6 @@ Additionally, as there are limited datasets and benchmarks for real-world vision
           {% include projects.liquid %}
         {% endfor %}
       </div>
-    {% endif %}
+    {% endif %}o
   {% endif %}
 </div>
