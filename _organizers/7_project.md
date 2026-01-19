@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Roland Memisevic
+title: Rajeev Yasarla
 description: Qualcomm AI Research
-img: assets/img/organizers/roland_memisevic.jpg
-redirect: https://scholar.google.com/citations?user=8oJl5P0AAAAJ&hl=en
+img: assets/img/organizers/rajeev_yasarla.jpg
+redirect: https://scholar.google.com/citations?user=R8dwrxEAAAAJ
 importance: 7
 category: work
 ---

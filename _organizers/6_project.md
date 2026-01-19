@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Guodong Ding
-description: National U. of Singapore
-img: assets/img/organizers/guodong_ding.jpeg
-redirect: https://guodongding.cn/
+title: Leonid Sigal
+description: University of British Columbia
+img: assets/img/organizers/leonid_sigal.jpeg
+redirect: https://www.cs.ubc.ca/~lsigal/
 importance: 6
 category: work
 ---
