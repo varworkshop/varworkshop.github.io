@@ -22,7 +22,7 @@ We invite contributions on topics relevant to the development of vision-based as
 
 ### Submission Instructions
 
-- **Submission Link:** [CMT](https://cmt3.research.microsoft.com/)
+- **Submission Link:** [CMT](https://cmt3.research.microsoft.com/VAR2026)
 - **Submission Types:** 
 	- **Full-length Papers with Proceedings**: The maximum page length is eight pages, with additional pages for demo plans (if available), supplementary materials and references. This track is for novel papers. Concurrent submissions are not accepted. As subject area please choose "Paper -> Full-length".
 	- **Extended Abstracts**: The maximum page length is four pages, with additional pages for demo plans (if available) and references. We encourage the submission relevant work that are in progress and those that have been previously (recently) published. As subject area please choose "Paper -> Extended Abstract".
