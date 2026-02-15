@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
+
+## AI Coach Challenge @ VAR 2026
+
 The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
 
 -  <font color="blue"><b>The winning teams will receive a certificate, a prize and will be invited to present their solution in a contributed talk. The winning team in 2025 received a ASUS Zenbook A14 as a prize.</b></font>
@@ -14,7 +17,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 <br/>
 
-### Challenge 1: Fitness Interactive Feedback Generation
+### Challenge 1: Fitness
 
 <video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
   <source src="{{ '/assets/video/fitness_competition.mp4' | relative_url }}" type="video/mp4">
@@ -23,7 +26,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 <br/>
 
-Continuing from CVPR 2025, this challenge focuses on assisting users through a workout session with interactive feedback. Details:
+Continuing from CVPR 2025, this challenge focuses on coaching users through a workout session with the right feedback at the right time. Details:
 - **Evaluation Data:** We base this challenge on the [QEVD](https://www.qualcomm.com/developer/software/qevd-dataset) dataset, as described [here](https://arxiv.org/abs/2407.08101). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ a (private) test set available [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/Qualcomm_Exercise_Video_Dataset/QEVD-FIT-COACH-Competition-CVPR2025/QEVD-FIT-COACH-Competition-CVPR2025.zip). 
 
 
@@ -62,7 +65,7 @@ Continuing from CVPR 2025, this challenge focuses on assisting users through a w
 
 
 
-### Challenge 2: Cooking Interactive Feedback Generation
+### Challenge 2: Cooking
 
 <video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
   <source src="{{ '/assets/video/cooking_competition.mp4' | relative_url }}" type="video/mp4">
@@ -71,7 +74,7 @@ Continuing from CVPR 2025, this challenge focuses on assisting users through a w
 
 <br/>
 
-This challenge focuses on assisting users through a recipe with interactive feedback. Details:
+This challenge focuses on coaching users through a recipe with with the right feedback at the right time. Details:
 - **Evaluation Data:** We base this challenge on the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) dataset, as described [here](https://www.arxiv.org/abs/2511.21998) and [here](https://apratimbh.github.io/livecook). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ the test set available in the link provided above. 
 
 - **Evaluation Set:** We will use the main set of the Qualcomm Interactive Cooking Dataset and consider the turn based evaluation scheme described in Section 5.4 [here](https://www.arxiv.org/abs/2511.21998). 
