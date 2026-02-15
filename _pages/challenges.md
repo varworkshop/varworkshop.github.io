@@ -45,7 +45,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 	```
 	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible. The team can choose the make the result public on the leaderboard below at any time.
 
-	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Fitness Interactive Feedback Generation".
+	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Fitness".
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop.
 
@@ -95,7 +95,7 @@ This challenge focuses on coaching users through a recipe with with the right fe
 	```
 	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible. The team can choose the make the result public on the leaderboard below at any time.
 
-	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking Interactive Feedback Generation".
+	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking".
 
 	- **Winner:** The winning team will be decided based on the four evaluation metrics described above. The winning team is the one that outperforms others on most metrics. As the test set is public, the code of the winning team *will* be inspected before the workshop.
 
