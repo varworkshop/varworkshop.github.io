@@ -16,10 +16,12 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 ### Challenge 1: Fitness Interactive Feedback Generation
 
-<video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
+<video controls style="margin:auto; display:block; width:80%">
   <source src="{{ '/assets/videos/fitness_competition.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<br/>
 
 Continuing from CVPR 2025, this challenge focuses on assisting users through a workout session with interactive feedback. Details:
 - **Evaluation Data:** We base this challenge on the [QEVD](https://www.qualcomm.com/developer/software/qevd-dataset) dataset, as described [here](https://arxiv.org/abs/2407.08101). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ a (private) test set available [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/Qualcomm_Exercise_Video_Dataset/QEVD-FIT-COACH-Competition-CVPR2025/QEVD-FIT-COACH-Competition-CVPR2025.zip). 
@@ -56,15 +58,18 @@ Continuing from CVPR 2025, this challenge focuses on assisting users through a w
 {:.table-bordered}
 
 <br/>
+<br/>
 
 
 
 ### Challenge 2: Cooking Interactive Feedback Generation
 
-<video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
+<video controls style="margin:auto; display:block; width:80%">
   <source src="{{ '/assets/videos/cooking_competition.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<br/>
 
 This challenge focuses on assisting users through a recipe with interactive feedback. Details:
 - **Evaluation Data:** We base this challenge on the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) dataset, as described [here](https://www.arxiv.org/abs/2511.21998) and [here](https://apratimbh.github.io/livecook). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ the test set available in the link provided above. 
