@@ -16,8 +16,8 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 ### Challenge 1: Fitness Interactive Feedback Generation
 
-<video controls style="margin:auto; display:block; width:80%">
-  <source src="{{ '/assets/videos/fitness_competition.mp4' | relative_url }}" type="video/mp4">
+<video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
+  <source src="{{ '/assets/video/fitness_competition.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -64,8 +64,8 @@ Continuing from CVPR 2025, this challenge focuses on assisting users through a w
 
 ### Challenge 2: Cooking Interactive Feedback Generation
 
-<video controls style="margin:auto; display:block; width:80%">
-  <source src="{{ '/assets/videos/cooking_competition.mp4' | relative_url }}" type="video/mp4">
+<video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
+  <source src="{{ '/assets/video/cooking_competition.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
