@@ -94,7 +94,7 @@ This challenge focuses on assisting users through a recipe with interactive feed
 
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking Interactive Feedback Generation".
 
-	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. As the test set is public, the code of the winning team *will* be inspected before the workshop.
+	- **Winner:** The winning team will be decided based on the four evaluation metrics described above. The winning team is the one that outperforms others on most metrics. As the test set is public, the code of the winning team *will* be inspected before the workshop.
 
  **Results (Continuously Updated)**
  
