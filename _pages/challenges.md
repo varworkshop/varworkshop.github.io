@@ -46,7 +46,7 @@ Continuing from CVPR 2025, this challenge focuses on assisting users through a w
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop.
 
- **Results (Continiously Updated) **
+ **Results (Continiously Updated)**
  
 | Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
@@ -96,7 +96,7 @@ This challenge focuses on assisting users through a recipe with interactive feed
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. As the test set is public, the code of the winning team *will* be inspected before the workshop.
 
- **Results (Continiously Updated) **
+ **Results (Continiously Updated)**
  
 | Method | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
