@@ -14,10 +14,10 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 <br/>
 
-### Challenge 1: Interactive Feedback Generation
+### Challenge 1: Fitness Interactive Feedback Generation
 
-<video controls style="margin:auto; display:block; width:80%">
-  <source src="{{ '/assets/video/fitness_competition.mp4' | relative_url }}" type="video/mp4">
+<video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
+  <source src="{{ '/assets/videos/fitness_competition.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -53,6 +53,57 @@ Continuing from CVPR 2025, this challenge focuses on assisting users through a w
 | Qwen-2-VL-Instruct | **0.185** | **0.089** | **0.861** | 2.851    | 0.555      |
 | Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
 | [CVPR 2025 Best](https://lucasventura.com/) | 0.156   | **0.101** | **0.861** | 2.087    | 0.535      |
+{:.table-bordered}
+
+<br/>
+
+
+
+### Challenge 2: Cooking Interactive Feedback Generation
+
+<video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
+  <source src="{{ '/assets/videos/cooking_competition.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+This challenge focuses on assisting users through a recipe with interactive feedback. Details:
+- **Evaluation Data:** We base this challenge on the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) dataset, as described [here](https://www.arxiv.org/abs/2511.21998) and [here](https://apratimbh.github.io/livecook). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ the test set available in the link provided above. 
+
+- **Evaluation Set:** We will use the main set of the Qualcomm Interactive Cooking Dataset and consider the turn based evaluation scheme described in Section 5.4 [here](https://www.arxiv.org/abs/2511.21998). 
+
+
+- **Training and Validation Data:** For training and validation, please use the data provided in the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) page.  
+
+
+- **Evaluation Metrics:** We will use the IC-Acc and Mistake (Precision, Recall and F1) metrics as described [here](https://www.arxiv.org/abs/2511.21998). The code for these metrics is available [here](https://github.com/Qualcomm-AI-research/qualcomm_interactive_cooking_eval). If you have any questions contact us [here](mailto:var.workshop.cvpr@gmail.com).
+
+
+- **Participation:**
+	- **Leaderboard:** Please email the results [here](mailto:var.workshop.cvpr@gmail.com) as a json file along with the team name. The json file should contain a list of python dicts with the the following fields:
+	```
+	[{“video_id”: <str: name of the evaluation video file>,
+	“pred_texts”: <List[str]: list of predicted instructions and feedbacks>,
+	“pred_timestamps”: <List[float]: list of timestamps corresponding to the predicted instructions and feedbacks>}, ...]
+	```
+	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible. The team can choose the make the result public on the leaderboard below at any time.
+
+	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking Interactive Feedback Generation".
+
+	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. As the test set is public, the code of the winning team *will* be inspected before the workshop.
+
+ **Results (Continiously Updated) **
+ 
+| Method | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| LLaVA-NeXT | 1.4 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
+| Video-ChatGPT | 1.6 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
+| VideoChat2 | 1.6 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
+| Video-LLaVA | 2.0 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
+| VideoLLaMA3-7B | 1.8 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
+| Videollm-online | 0.03 | 0.02 | **0.98** | 0.04 | 0.332 | 0.248 |
+| Qwen2-VL-7B | 6.3 | 0.02 | 0.69 | **0.05** | 0.377 | 0.256 |
+| Qwen2.5-VL-7B | 18.9 | **0.18** | 0.01 | 0.02 | 0.299 | 0.219 |
+| Gemini-2.5-Flash | **23.1** | 0.01 | 0.22 | 0.02 | *0.410* | *0.342* |
 {:.table-bordered}
 
 <br/>
