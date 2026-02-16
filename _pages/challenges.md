@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-## AI Coach Challenge @ VAR 2026
+## AI Coach Challenge @ VAR 2026: "Don't Just Watch. Intervene."
 
 The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
 
@@ -26,7 +26,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 <br/>
 
-Continuing from CVPR 2025, this challenge focuses on coaching users through a workout session with the right feedback at the right time. Details:
+Continuing from CVPR 2025, this challenge focuses on coaching users through a workout session with the right feedback at the right time, to correct mistakes and encourage the user. Details:
 - **Evaluation Data:** We base this challenge on the [QEVD](https://www.qualcomm.com/developer/software/qevd-dataset) dataset, as described [here](https://arxiv.org/abs/2407.08101). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ a (private) test set available [here](https://softwarecenter.qualcomm.com/api/download/software/dataset/AIDataset/Qualcomm_Exercise_Video_Dataset/QEVD-FIT-COACH-Competition-CVPR2025/QEVD-FIT-COACH-Competition-CVPR2025.zip). 
 
 
@@ -74,7 +74,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 
 <br/>
 
-This challenge focuses on coaching users through a recipe with with the right feedback at the right time. Details:
+This challenge focuses on coaching users through a recipe with with the right feedback at the right time, to correct mistakes. Details:
 - **Evaluation Data:** We base this challenge on the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) dataset, as described [here](https://www.arxiv.org/abs/2511.21998) and [here](https://apratimbh.github.io/livecook). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ the test set available in the link provided above. 
 
 - **Evaluation Set:** We will use the main set of the Qualcomm Interactive Cooking Dataset and consider the turn based evaluation scheme described in Section 5.4 [here](https://www.arxiv.org/abs/2511.21998). 
