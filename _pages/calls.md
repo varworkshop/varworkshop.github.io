@@ -32,8 +32,8 @@ We invite contributions on topics relevant to the development of vision-based as
 All submissions are be non-archival. Supplementary material can be added to the same file (after demo plans and/or references).
 
 ### Dates: Full-length Papers with Proceedings
-- **Paper Submission Deadline:** March 1st, 2026
-- **Notification to Authors:** March 15th, 2026
+- **Paper Submission Deadline:** March 7th, 2026 ~~March 1st, 2026~~
+- **Notification to Authors:** March 20th, 2026 ~~March 15th, 2026~~
 - **Camera-ready deadline:** April 1st, 2026
 
 ### Dates: Extended Abstracts and Papers Accepted to CVPR 2026
