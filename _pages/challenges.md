@@ -41,9 +41,9 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 - **Participation:**
 	- **Leaderboard:** Please email the results [here](mailto:var.workshop.cvpr@gmail.com) as a json file along with the team name. The json file should contain a list of python dicts with the the following fields:
 	```
-	[{“video_file”: <str: name of the evaluation video file>,
-	“feedbacks”: <List[str]: list of predicted feedbacks>,
-	“feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>}, ...]
+	[{“mini_episode_id”: <str: name of the evaluation video file>,
+	“pred_feedbacks”: <List[str]: list of predicted feedbacks>,
+	“pred_feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>}, ...]
 	```
 	See the quick start guide for more details. Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible. The team can choose the make the result public on the leaderboard below at any time.
 
