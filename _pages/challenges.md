@@ -32,7 +32,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 
 - **Training and Validation Data:** For training and validation, please use the data provided in the [QEVD page](https://www.qualcomm.com/developer/software/qevd-dataset).
 
-- **Quick Start:** We provide a quick start guide that implements a Qwen3-VL-2B-Instruct baseline is available [here](https://github.com/varworkshop/ai_coach_fitness_2026).
+- **Quick Start:** We provide a quick start guide that implements a Qwen3-VL baseline that is available [here](https://github.com/varworkshop/ai_coach_fitness_2026).
 
 
 - **Evaluation Metrics:** We will use the METEOR, ROUGE-L,  BERT, LLM-Acc., and T-F-Score as described [here](https://arxiv.org/abs/2407.08101). The code for these metrics is available [here](https://github.com/Qualcomm-AI-research/FitCoach/tree/main/scripts). If you have any questions contact us [here](mailto:var.workshop.cvpr@gmail.com).
@@ -82,7 +82,9 @@ This challenge focuses on coaching users through a recipe with with the right fe
 - **Evaluation Set:** We will use the main set of the Qualcomm Interactive Cooking Dataset and consider the turn based evaluation scheme described in Section 5.4 [here](https://www.arxiv.org/abs/2511.21998). 
 
 
-- **Training and Validation Data:** For training and validation, please use the data provided in the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) page.  
+- **Training and Validation Data:** For training and validation, please use the data provided in the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) page.
+
+- **Quick Start:** We provide a quick start guide that implements a Qwen3-VL baseline that is available [here](https://github.com/varworkshop/ai_coach_cooking_2026). 
 
 
 - **Evaluation Metrics:** We will use the IC-Acc and Mistake (Precision, Recall and F1) metrics as described [here](https://www.arxiv.org/abs/2511.21998). The code for these metrics is available [here](https://github.com/Qualcomm-AI-research/qualcomm_interactive_cooking_eval). If you have any questions contact us [here](mailto:var.workshop.cvpr@gmail.com).
