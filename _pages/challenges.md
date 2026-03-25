@@ -76,8 +76,8 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 
 <br/>
 
-This challenge focuses on coaching users through a recipe with with the right feedback at the right time, to correct mistakes. Details:
-- **Evaluation Data:** We base this challenge on the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) dataset, as described [here](https://www.arxiv.org/abs/2511.21998) and [here](https://apratimbh.github.io/livecook). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ the test set available in the link provided above. 
+This challenge focuses on coaching users through a recipe with the right feedback at the right time, to correct mistakes. Details:
+- **Evaluation Data:** We base this challenge on the [Qualcomm Interactive Cooking Dataset](https://huggingface.co/datasets/qualcomm/qualcomm-interactive-cooking-dataset) (built on top of [CaptainCook4D](https://captaincook4d.github.io/captain-cook/)), as described [here](https://www.arxiv.org/abs/2511.21998) and [here](https://apratimbh.github.io/livecook). Specifically, the challenge involves providing timed feedback for a set of evaluation videos. For this challenge, we employ the test set available in the link provided above. 
 
 - **Evaluation Set:** We will use the main set of the Qualcomm Interactive Cooking Dataset and consider the turn based evaluation scheme described in Section 5.4 [here](https://www.arxiv.org/abs/2511.21998). 
 
