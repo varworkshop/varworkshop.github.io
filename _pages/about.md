@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Second Edition @ CVPR 2026: June 3rd, 2026 8:30am to 1pm
+subtitle: Second Edition @ CVPR 2026 - June 3rd, 2026 8:30am to 1pm
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
