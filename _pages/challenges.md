@@ -70,7 +70,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 ### Challenge 2: Cooking
 
 <video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
-  <source src="{{ '/assets/video/cooking_competition.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/video/cooking_competition_2.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
