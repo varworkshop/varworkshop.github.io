@@ -39,7 +39,7 @@ All submissions are be non-archival. Supplementary material can be added to the 
 ### Dates: Extended Abstracts and Papers Accepted to CVPR 2026
 - **Paper Submission Deadline:** May 1st, 2026
 - **Notification to Authors:** May 15th, 2026
-- **Camera-ready deadline:** June 1st, 2026
+- **Camera-ready deadline:** May 20th, 2026
 
 All deadlines are until 11:59 pm Pacific Standard Time (PST).
 
