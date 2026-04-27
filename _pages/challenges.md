@@ -45,7 +45,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 	“pred_feedbacks”: <List[str]: list of predicted feedbacks>,
 	“pred_feedback_timestamps”: <List[float]: list of timestamps corresponding to the predicted feedbacks>}, ...]
 	```
-	See the quick start guide for more details. Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible. The team can choose the make the result public on the leaderboard below at any time.
+	See the quick start guide for more details. Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible (within 24 hours). The team can choose the make the result public on the leaderboard below at any time.
 
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Fitness".
 
@@ -97,7 +97,7 @@ This challenge focuses on coaching users through a recipe with the right feedbac
 	“pred_texts”: <List[str]: list of predicted instructions and feedbacks>,
 	“pred_timestamps”: <List[float]: list of timestamps corresponding to the predicted instructions and feedbacks>}, ...]
 	```
-	Each team will be allowed to make five submissions and we will provide the evaluation results of each submission as soon as possible. The team can choose the make the result public on the leaderboard below at any time.
+	The team can choose the make the result public on the leaderboard below at any time.
 
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking".
 
