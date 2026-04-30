@@ -399,10 +399,7 @@ ninja.data = [{
           description: "Qualcomm AI Research",
           section: "Challenge_organizers",handler: () => {
               window.location.href = "/challenge_organizers/2_project/";
-            },},{id: "news-follow-our-social-media-page-x-twitter-and-bsky-for-latest-updates",
-          title: 'Follow our social media page X (twitter) and bsky for latest updates.',
-          description: "",
-          section: "News",},{id: "news-the-challenges-for-2026-are-now-online",
+            },},{id: "news-the-challenges-for-2026-are-now-online",
           title: 'The challenges for 2026 are now online.',
           description: "",
           section: "News",},{id: "organizers-apratim-bhattacharyya",
