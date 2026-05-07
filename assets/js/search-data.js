@@ -472,9 +472,9 @@ ninja.data = [{
           description: "UC Santa Barbara",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-mario-fritz",
-          title: 'Mario Fritz',
-          description: "CISPA Helmholtz Center for Information Security",
+            },},{id: "projects-vicente-ordóñez-román",
+          title: 'Vicente Ordóñez-Román',
+          description: "Rice University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
