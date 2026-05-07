@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Mario Fritz
-description: CISPA Helmholtz Center for Information Security
-img: assets/img/speakers/mario_fritz.jpg
-redirect: https://cispa.de/en/people/mario.fritz
+title: Vicente Ordóñez-Román
+description: Rice University
+img: assets/img/speakers/vicente_ordonez_roman.png
+redirect: https://www.cs.rice.edu/~vo9/
 importance: 6
 category: fun
 ---
