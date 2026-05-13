@@ -457,9 +457,9 @@ ninja.data = [{
           description: "University of Waterloo",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-kris-m-kitani",
-          title: 'Kris M. Kitani',
-          description: "CMU",
+            },},{id: "projects-michael-s-ryoo",
+          title: 'Michael S. Ryoo',
+          description: "DeepMind, Stony Brook University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-ziwei-liu",
