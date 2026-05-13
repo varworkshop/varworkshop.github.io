@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kris M. Kitani
-description: CMU
-img: assets/img/speakers/kris_kitani.png
-redirect: hhttps://kriskitani.github.io/
+title: Michael S. Ryoo
+description: DeepMind, Stony Brook University
+img: assets/img/speakers/michael_ryoo.jpg
+redirect: http://michaelryoo.com/
 importance: 3
 category: work
 ---
