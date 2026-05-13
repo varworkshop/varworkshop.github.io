@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Vision-based Assistants in the Real-World # the website title (if blank, full name will be used instead)
+title: Vision-based Assistants in the Real World # the website title (if blank, full name will be used instead)
 first_name: VAR
 middle_name: 
 last_name: 
-contact_note: CVPR 2025
+contact_note: CVPR 2026
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   VAR Workshop @ CVPR 2025.
 footer_text: >
