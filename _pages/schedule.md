@@ -40,7 +40,7 @@ nav_order: 4
 **A Simple Baseline for Streaming Video Understanding**
 <br/>
 *Yujiao Shen, Shulin Tian, Jingkang Yang, Ziwei Liu*<br/>
-[pdf](/assets/pdf/9.pdf)
+[pdf](https://arxiv.org/abs/2604.02317)
 
 **Drive-to-Music: Context-Aware Generative Audio for In-Vehicle Experiences**
 <br/>
