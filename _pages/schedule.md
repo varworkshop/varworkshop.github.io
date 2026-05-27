@@ -7,6 +7,28 @@ nav: true
 nav_order: 4
 ---
 
+### Location and Schedule
+- **Date:** June 3rd, 2026.
+- **Workshop Location:** 102/104
+- **Poster Location:** Exhibit Hall A
+
+| Time Slot    | Event                                           |
+| :----------- | :---------------------------------------------- |
+| 08:30-08:45  | Welcome and Introduction                         |
+| 08:45-09:15  | Keynote: Prof. Dr. Michael S. Ryoo              |
+| 09:15-09:45  | Keynote: Prof. Katerina Fragkiadaki             |
+| 09:45-10:15  | Keynote: Prof. Wenhu Chen                       |
+| 10:15-10:30  | Paper Talk: Molmo2 by Zixian Ma                 |
+| 10:30-11:00  | Keynote: Prof. Ziwei Liu                        |
+| 11:00-11:30  | Keynote: Prof. Yao Qin                          |
+| 11:30-12:00  | Keynote: Prof. Vicente Ordóñez-Román            |
+| 12:00-12:20  | Challenge Results                               |
+| 12:20-13:00  | Posters and Coffee                              |
+{:.table-bordered}
+
+
+<br/>All times are in local time zone, Mountain Daylight Time (MDT).
+<br/>
 
 ### Accepted Papers: Main Conference Papers
 
