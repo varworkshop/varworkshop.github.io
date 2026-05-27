@@ -13,7 +13,7 @@ nav_order: 4
 **Streaming Video Instruction Tuning**
 <br/>
 *Jiaer Xia, Peixian Chen, Mengdan Zhang, Xing Sun, Kaiyang Zhou*<br/>
-[pdf](/assets/pdf/4.pdf)
+[pdf](https://arxiv.org/pdf/2512.21334)
 
 **Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**
 <br/>
@@ -33,7 +33,7 @@ nav_order: 4
 **From 3D Pose to Prose: Biomechanics-Grounded Vision-Language Coaching**
 <br/>
 *Yuyang Ji, Yixuan Shen, Feng Liu*<br/>
-[pdf](/assets/pdf/8.pdf)
+[pdf](/assets/pdf/10.pdf)
 
 ### Accepted Papers: Extended Abstracts
 
