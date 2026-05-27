@@ -80,5 +80,5 @@ nav_order: 4
 
 **StreamMind: Adaptive Temporal Memory for Interactive Question Answering on Live Video Streams**
 <br/>
-*Partha Sarathi Samal, Sai Kiran Padmam, Bhavan Kumar B.R*<br/>
+*Suresh Kumar Palus, Partha Sarathi Samal, Sai Kiran Padmam, Bhavan Kumar B.R*<br/>
 [pdf](/assets/pdf/3.pdf)
