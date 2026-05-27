@@ -51,15 +51,22 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop.
 
- **Results (Continuously Updated)**
+ **Results: Prior Works**
  
 | Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
 | VideoChat2         | 0.104   | 0.048    | 0.846 | 2.145    | 0.555      |
 | VideoLLaMA3-7B     | 0.150   | 0.076    | 0.859 | 2.554    | 0.555      |
-| Qwen-2-VL-Instruct | **0.185** | **0.089** | **0.861** | 2.851    | 0.555      |
+| Qwen-2-VL-Instruct | **0.185** | 0.089 | 0.861 | 2.851    | 0.555      |
 | Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
-| [CVPR 2025 Best](https://lucasventura.com/) | 0.156   | **0.101** | **0.861** | 2.087    | 0.535      |
+| [CVPR 2025 Best](https://lucasventura.com/) | 0.156   | 0.101 | **0.861** | 2.087    | 0.535      |
+{:.table-bordered}
+
+ **Results: CVPR 2026**
+ 
+| Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
+| :----------------- | :------ | :------- | :---- | :------- | :--------- |
+| ISCT_FitCoach (Koki Kawamura) | 0.167   | **0.122** | **0.888** | 2.809    | **0.727**      |
 {:.table-bordered}
 
 <br/>
