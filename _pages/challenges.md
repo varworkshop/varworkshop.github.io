@@ -62,6 +62,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 | [CVPR 2025 Best](https://lucasventura.com/) | 0.156   | 0.101 | **0.861** | 2.087    | 0.535      |
 {:.table-bordered}
 
+ <br/>
  **Results: CVPR 2026**
  
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
