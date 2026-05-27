@@ -63,6 +63,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 {:.table-bordered}
 
  <br/>
+ 
  **Results: CVPR 2026**
  
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
