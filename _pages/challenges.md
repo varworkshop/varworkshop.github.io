@@ -69,6 +69,7 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
 | ISCT_FitCoach (Koki Kawamura) | 0.167   | **0.122** | **0.888** | 2.809    | **0.727**      |
+| Anonymous | 0.143   | 0.069 |  0.867 | 2.975    | 0.537      |
 {:.table-bordered}
 
 <br/>
