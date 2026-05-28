@@ -110,7 +110,7 @@ This challenge focuses on coaching users through a recipe with the right feedbac
 
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking".
 
-	- **Winner:** The winning team will be decided based on the four evaluation metrics described above. The winning team is the one that outperforms others on most metrics. As the test set is public, the code of the winning team *will* be inspected before the workshop.
+	- **Winner:** The winning team will be decided based on the (mistake) F1 and IC-Acc scores. We will first sort by (mistake) F1 and then IC-Acc scores. If two teams have the same mistake F1 score then we will break ties using BERT then ROUGE-L scores.
 
  **Results (Continuously Updated)**
  
