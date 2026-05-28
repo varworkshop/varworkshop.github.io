@@ -59,6 +59,11 @@ nav_order: 4
 *Yuyang Ji, Yixuan Shen, Feng Liu*<br/>
 [pdf](/assets/pdf/10.pdf)
 
+**Interactive Episodic Memory with User Feedback**
+<br/>
+*Nikesh Subedi, Loris Bazzani, Ziad Al-Halah*<br/>
+[pdf](/assets/pdf/13.pdf)
+
 ### Accepted Papers: Extended Abstracts
 
 **A Simple Baseline for Streaming Video Understanding**
