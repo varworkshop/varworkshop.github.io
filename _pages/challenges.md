@@ -113,7 +113,7 @@ This challenge focuses on coaching users through a recipe with the right feedbac
 
 	- **Winner:** The winning team will be decided based on the (mistake) F1 and IC-Acc scores. We will first sort by (mistake) F1 and then IC-Acc scores. If two teams have the same F1 and IC-Acc scores then we will break ties by sorting by BERT and then ROUGE-L scores.
 
-  **Results: CVPR 2026**
+**Results: CVPR 2026**
  
 | Team             | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |:--------- |
