@@ -17,6 +17,26 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 <br/>
 
+ **Results: CVPR 2026 - Fitness**
+ 
+| Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
+| :----------------- | :------ | :------- | :---- | :------- | :--------- |
+| ISCT_FitCoach (Koki Kawamura) | 0.167   | **0.122** | **0.888** | 2.809    | **0.727**      |
+| Anonymous | 0.143   | 0.069 |  0.867 | 2.975    | 0.537      |
+{:.table-bordered}
+
+<br/>
+
+**Results: CVPR 2026 - Cooking**
+ 
+| Team             | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
+| :----------------- | :------ | :------- | :---- | :------- | :--------- |:--------- |
+| Yeeun Choi | 31.4 |  0.17 | 0.25 | 0.20 | 0.450 | 0.336 |
+{:.table-bordered}
+
+<br/>
+<br/>
+
 ### Challenge 1: Fitness
 
 <video autoplay muted loop playsinline controls style="margin:auto; display:block; width:80%">
@@ -50,14 +70,6 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Fitness".
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop.
-
- **Results: CVPR 2026**
- 
-| Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
-| :----------------- | :------ | :------- | :---- | :------- | :--------- |
-| ISCT_FitCoach (Koki Kawamura) | 0.167   | **0.122** | **0.888** | 2.809    | **0.727**      |
-| Anonymous | 0.143   | 0.069 |  0.867 | 2.975    | 0.537      |
-{:.table-bordered}
 
  <br/>
 
@@ -112,13 +124,6 @@ This challenge focuses on coaching users through a recipe with the right feedbac
 	- **Extended Abstract:** The teams submitting to the challenge are also encouraged to submit an extended abstract through [CMT](http://cmt3.research.microsoft.com/VAR2025/). The page limit is a minimum of two pages and a maximum of four pages, excluding references. As subject area please choose "Challenge: Cooking".
 
 	- **Winner:** The winning team will be decided based on the (mistake) F1 and IC-Acc scores. We will first sort by (mistake) F1 and then IC-Acc scores. If two teams have the same F1 and IC-Acc scores then we will break ties by sorting by BERT and then ROUGE-L scores.
-
-**Results: CVPR 2026**
- 
-| Team             | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
-| :----------------- | :------ | :------- | :---- | :------- | :--------- |:--------- |
-| Yeeun Choi | 31.4 |  0.17 | 0.25 | 0.20 | 0.450 | 0.336 |
-{:.table-bordered}
 
  **Results: Prior Works**
  
