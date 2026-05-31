@@ -51,25 +51,25 @@ Continuing from CVPR 2025, this challenge focuses on coaching users through a wo
 
 	- **Winner:** The winning team will be decided based on the five evaluation metrics described above. The winning team is the one that outperforms others on most metrics. The code of the winning team will be inspected before the workshop.
 
- **Results: Prior Works**
- 
-| Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
-| :----------------- | :------ | :------- | :---- | :------- | :--------- |
-| VideoChat2         | 0.104   | 0.048    | 0.846 | 2.145    | 0.555      |
-| VideoLLaMA3-7B     | 0.150   | 0.076    | 0.859 | 2.554    | 0.555      |
-| Qwen-2-VL-Instruct | **0.185** | 0.089 | 0.861 | 2.851    | 0.555      |
-| Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
-| [CVPR 2025 Best](https://lucasventura.com/) | 0.156   | 0.101 | **0.861** | 2.087    | 0.535      |
-{:.table-bordered}
-
- <br/>
- 
  **Results: CVPR 2026**
  
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
 | ISCT_FitCoach (Koki Kawamura) | 0.167   | **0.122** | **0.888** | 2.809    | **0.727**      |
 | Anonymous | 0.143   | 0.069 |  0.867 | 2.975    | 0.537      |
+{:.table-bordered}
+
+ <br/>
+
+  **Results: Prior Works**
+ 
+ | Method             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
+| :----------------- | :------ | :------- | :---- | :------- | :--------- |
+| VideoChat2         | 0.104   | 0.048    | 0.846 | 2.145    | 0.555      |
+| VideoLLaMA3-7B     | 0.150   | 0.076    | 0.859 | 2.554    | 0.555      |
+| Qwen-2-VL-Instruct | **0.185** | 0.089 | 0.861 | 2.851    | 0.555      |
+| Qwen-2.5-VL-Instruct | 0.174   | 0.068    | 0.855 | **3.153** | 0.555      |
+| [CVPR 2025 Best](https://lucasventura.com/) | 0.156   | 0.101 | **0.861** | 2.087    | 0.535      |
 {:.table-bordered}
 
 <br/>
@@ -113,15 +113,17 @@ This challenge focuses on coaching users through a recipe with the right feedbac
 
 	- **Winner:** The winning team will be decided based on the (mistake) F1 and IC-Acc scores. We will first sort by (mistake) F1 and then IC-Acc scores. If two teams have the same F1 and IC-Acc scores then we will break ties by sorting by BERT and then ROUGE-L scores.
 
- **Results (Continuously Updated)**
+  **Results: CVPR 2026**
+ 
+| Team             | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
+| :----------------- | :------ | :------- | :---- | :------- | :--------- |:--------- |
+| Yeeun Choi | 31.4 |  0.17 | 0.25 | 0.20 | 0.450 | 0.336 |
+{:.table-bordered}
+
+ **Results: Prior Works**
  
 | Method | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| LLaVA-NeXT | 1.4 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
-| Video-ChatGPT | 1.6 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
-| VideoChat2 | 1.6 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
-| Video-LLaVA | 2.0 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
-| VideoLLaMA3-7B | 1.8 | 0.00 | 0.00 | 0.00 | 0.000 | 0.000 |
 | Videollm-online | 0.03 | 0.02 | **0.98** | 0.04 | 0.332 | 0.248 |
 | Qwen2-VL-7B | 6.3 | 0.02 | 0.69 | **0.05** | 0.377 | 0.256 |
 | Qwen2.5-VL-7B | 18.9 | **0.18** | 0.01 | 0.02 | 0.299 | 0.219 |
