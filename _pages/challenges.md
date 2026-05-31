@@ -13,7 +13,7 @@ nav_order: 3
 The workshop will host two challenges on tasks that are crucial to enable real-world vision-based assistants. These challenges are designed to test both the low-level visual capabilities and higher-level reasoning skills of vision-based assistants.
 
 -  <font color="blue"><b>The winning teams will receive a certificate, a prize and will be invited to present their solution in a contributed talk. The winning team in 2025 received a ASUS Zenbook A14 as a prize.</b></font>
--  <font color="red"><b>Deadline: June 1, 2026</b></font>
+-  <font color="red"><b>Deadline: June 1, 2026 (AoE)</b></font>
 
 <br/>
 
