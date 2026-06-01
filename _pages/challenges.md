@@ -31,7 +31,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
  
 | Team             | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |:--------- |
-| Yeeun Choi | 31.4 |  **0.17** | **0.25** | **0.20** | **0.450** | **0.336** |
+| Yeeun Choi | **31.4** |  **0.17** | **0.25** | **0.20** | **0.450** | **0.336** |
 {:.table-bordered}
 
 <br/>
