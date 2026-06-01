@@ -21,7 +21,8 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
  
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
-| ISCT_FitCoach (Koki Kawamura) | **0.182**   | **0.131** | **0.887** | 2.797 |  **0.727**   |
+| WICT-FitCoach | **0.296** | **0.194** | **0.891** | **3.556** | 0.652 |
+| ISCT_FitCoach (Koki Kawamura) | 0.182   | 0.131 | 0.887 | 2.797 |  **0.727**   |
 | Anonymous | 0.143   | 0.069 |  0.867 | 2.975    | 0.537      |
 {:.table-bordered}
 
