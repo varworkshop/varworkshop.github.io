@@ -21,7 +21,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
  
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
-| ISCT_FitCoach (Koki Kawamura) | 0.167   | **0.122** | **0.888** | 2.809    | **0.727**      |
+| ISCT_FitCoach (Koki Kawamura) | **0.182**   | **0.131** | **0.887** | 2.797 |  **0.727**   |
 | Anonymous | 0.143   | 0.069 |  0.867 | 2.975    | 0.537      |
 {:.table-bordered}
 
@@ -31,7 +31,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
  
 | Team             | IC-Acc ↑ | Prec. ↑ | Rec. ↑ | F1 ↑ | BERT ↑ | ROUGE-L ↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |:--------- |
-| Yeeun Choi | 31.4 |  0.17 | 0.25 | 0.20 | 0.450 | 0.336 |
+| Yeeun Choi | 31.4 |  **0.17** | **0.25** | **0.20** | **0.450** | **0.336** |
 {:.table-bordered}
 
 <br/>
