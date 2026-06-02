@@ -32,6 +32,13 @@ nav_order: 4
 
 <br/>
 
+### Accepted Papers: Challenge Extended Abstracts
+
+**Timing-Content Separation for Human-Coach-Like Exercise Feedback Generation**
+<br/>
+*Koki Kawamura, Shuhei Kurita, Taiki Miyanishi, Inoue Nakamasa*<br/>
+[pdf](/assets/pdf/14.pdf)
+
 ### Accepted Papers: Main Conference Papers
 
 **Streaming Video Instruction Tuning**
