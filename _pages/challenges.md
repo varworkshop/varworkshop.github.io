@@ -65,6 +65,8 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 **Method:** We propose a hierarchical two-stage video understanding framework for the Cooking task in the VAR 2026 AI Coach Challenge. Our method first uses Gemini-3.5 Flash to perform coarse-grained reasoning over the full cooking video and recipe action list, segmenting the video into approximate recipe steps and generating step-level instructions. It then applies GPT-5.5 for fine-grained inspection within each segment to detect visible mistakes, localize their timestamps, and generate corrective feedback. To handle long videos, segments are processed with adaptive frame sampling and overlapping chunks, while summaries of previous chunks preserve temporal continuity. Candidate feedback is merged and deduplicated, and if no mistake is detected, the system produces positive completion feedback. The final output organizes instructions, corrective feedback, and success messages with fine-grained timestamps in the required submission format.
 <br/>
+
+![]({{ "/assets/img/methods/cooking_1.jpg" | relative_url }}){:style="margin:auto; display:block;width:70%"}
 <br/>
 
 #### _Yeeun Choi (Yonsei University)_
