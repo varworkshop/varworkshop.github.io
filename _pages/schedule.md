@@ -10,7 +10,8 @@ nav_order: 4
 ### Location and Schedule
 - **Date:** June 3rd, 2026.
 - **Workshop Location:** 102/104
-- **Poster Location:** Exhibit Hall A
+- **Poster Location:** Exhibit Hall A, 229 – 236
+
 
 | Time Slot    | Event                                           |
 | :----------- | :---------------------------------------------- |
