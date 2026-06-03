@@ -39,6 +39,13 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 <br/>
 
 ### Results: Fitness Method Highlight
+**WICT-FitCoach**
+We propose a two-stage framework that combines Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) for timestamped coaching feedback generation from exercise videos. First, a multimodal large language model is trained through a progressive SFT strategy on both short-video single-feedback data and long-video multi-feedback data. Then, RL post-training further improves coaching decision-making with a novel Unified Order-Aware Reward, which jointly models temporal alignment, semantic similarity, and feedback ordering through dynamic programming-based matching. This design enables the model to learn not only what feedback to provide and when to provide it, but also how to organize feedback in a natural coaching sequence, leading to state-of-the-art performance in the AI Coach Challenge.
+<br/>
+
+![]({{ "/assets/img/methods/fitness_1.png" | relative_url }}){:style="margin:auto; display:block;width:90%"}
+
+<br/>
 
 **ISCT_FitCoach** 
 <br/>
