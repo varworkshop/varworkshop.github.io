@@ -15,7 +15,7 @@ nav_order: 4
 
 | Time Slot    | Event                                           |
 | :----------- | :---------------------------------------------- |
-| 08:30-08:45  | Welcome and Introduction                         |
+| 08:30-08:45  | Welcome and Introduction                        |
 | 08:45-09:15  | Keynote: Prof. Dr. Michael S. Ryoo              |
 | 09:15-09:45  | Keynote: Prof. Katerina Fragkiadaki             |
 | 09:45-10:15  | Keynote: Prof. Wenhu Chen                       |
@@ -39,6 +39,11 @@ nav_order: 4
 <br/>
 *Koki Kawamura, Shuhei Kurita, Taiki Miyanishi, Inoue Nakamasa*<br/>
 [pdf](/assets/pdf/14.pdf)
+
+**Technical Report of Team MR-CAS**
+<br/>
+*Ruochen Cui, Yuhai Li, Shilong Bao, Boyu Han, Qianqian Xu, Qingming Huang*<br/>
+[pdf](/assets/pdf/15.pdf)
 
 ### Accepted Papers: Main Conference Papers
 
