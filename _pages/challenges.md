@@ -40,7 +40,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 ### Results: Fitness Method Highlights
 #### PKU-FitCoach (Peking University)
-**Members:** Minghang Zheng, Jingli Wei, Yang Liu
+**Members:** Minghang Zheng, Jingli Wei, Yuxin Peng, Yang Liu
 
 **Method:** We propose a two-stage framework that combines Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) for timestamped coaching feedback generation from exercise videos. First, a multimodal large language model is trained through a progressive SFT strategy on both short-video single-feedback data and long-video multi-feedback data. Then, RL post-training further improves coaching decision-making with a novel Unified Order-Aware Reward, which jointly models temporal alignment, semantic similarity, and feedback ordering through dynamic programming-based matching. This design enables the model to learn not only what feedback to provide and when to provide it, but also how to organize feedback in a natural coaching sequence, leading to state-of-the-art performance in the AI Coach Challenge.
 <br/>
@@ -61,7 +61,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 
 ### Results: Cooking Method Highlights
 #### MR-CAS (Chinese Academy of Sciences, Beijing Academy of Artificial Intelligence)
-**Members:** Ruocheng Cui, Yuhai Li, Shilong Bao, Boyu Han, Qianqian Xu, Qingming Huang 
+**Members:** Ruochen Cui, Yuhai Li, Shilong Bao, Boyu Han, Qianqian Xu, Qingming Huang 
 
 **Method:** We propose a hierarchical two-stage video understanding framework for the Cooking task in the VAR 2026 AI Coach Challenge. Our method first uses Gemini-3.5 Flash to perform coarse-grained reasoning over the full cooking video and recipe action list, segmenting the video into approximate recipe steps and generating step-level instructions. It then applies GPT-5.5 for fine-grained inspection within each segment to detect visible mistakes, localize their timestamps, and generate corrective feedback. To handle long videos, segments are processed with adaptive frame sampling and overlapping chunks, while summaries of previous chunks preserve temporal continuity. Candidate feedback is merged and deduplicated, and if no mistake is detected, the system produces positive completion feedback. The final output organizes instructions, corrective feedback, and success messages with fine-grained timestamps in the required submission format.
 <br/>
