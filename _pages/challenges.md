@@ -21,7 +21,7 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
  
 | Team             | METEOR↑ | ROUGE-L↑ | BERT↑ | LLM-Acc↑ | T-F-Score↑ |
 | :----------------- | :------ | :------- | :---- | :------- | :--------- |
-| WICT-FitCoach | **0.296** | **0.194** | **0.891** | **3.556** | 0.652 |
+| PKU-FitCoach | **0.296** | **0.194** | **0.891** | **3.556** | 0.652 |
 | ISCT_FitCoach | 0.182   | 0.131 | 0.887 | 2.797 |  **0.727**   |
 {:.table-bordered}
 
@@ -38,26 +38,36 @@ The workshop will host two challenges on tasks that are crucial to enable real-w
 <br/>
 <br/>
 
-### Results: Fitness Method Highlight
-**WICT-FitCoach**:
-We propose a two-stage framework that combines Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) for timestamped coaching feedback generation from exercise videos. First, a multimodal large language model is trained through a progressive SFT strategy on both short-video single-feedback data and long-video multi-feedback data. Then, RL post-training further improves coaching decision-making with a novel Unified Order-Aware Reward, which jointly models temporal alignment, semantic similarity, and feedback ordering through dynamic programming-based matching. This design enables the model to learn not only what feedback to provide and when to provide it, but also how to organize feedback in a natural coaching sequence, leading to state-of-the-art performance in the AI Coach Challenge.
+### Results: Fitness Method Highlights
+#### PKU-FitCoach (Peking University)
+**Members:** Minghang Zheng, Jingli Wei, Yang Liu
+
+**Method:** We propose a two-stage framework that combines Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) for timestamped coaching feedback generation from exercise videos. First, a multimodal large language model is trained through a progressive SFT strategy on both short-video single-feedback data and long-video multi-feedback data. Then, RL post-training further improves coaching decision-making with a novel Unified Order-Aware Reward, which jointly models temporal alignment, semantic similarity, and feedback ordering through dynamic programming-based matching. This design enables the model to learn not only what feedback to provide and when to provide it, but also how to organize feedback in a natural coaching sequence, leading to state-of-the-art performance in the AI Coach Challenge.
 <br/>
 
 ![]({{ "/assets/img/methods/fitness_1.png" | relative_url }}){:style="margin:auto; display:block;width:90%"}
 
 <br/>
 
-**ISCT_FitCoach**:
-FitCoachPipe addresses the AI Coach Challenge: Fitness by separating two decisions that are often entangled in video-to-feedback systems: when a coach should speak and what concise advice they should give. The method extracts body-aware observations from 3D pose, uses a supervised Qwen3.5 speak gate with a 3-second cooldown to select sparse feedback moments, and then generates short coaching cues with a supervised-finetuned Qwen3.5 vision-language model conditioned on pose observations, recent utterance history, exercise context, and past visual frames. This timing/content pipeline achieved T-F 0.586 and LLM-Acc 3.093 on the local benchmark, and T-F 0.727 with LLM-Acc 2.809 in the official competition evaluation.
+#### ISCT_FitCoach (Institute of Science Tokyo)
+**Members:** Koki Kawamura, Shuhei Kurita, Taiki Miyanishi, Inoue Nakamasa
+
+**Method:** FitCoachPipe addresses the AI Coach Challenge: Fitness by separating two decisions that are often entangled in video-to-feedback systems: when a coach should speak and what concise advice they should give. The method extracts body-aware observations from 3D pose, uses a supervised Qwen3.5 speak gate with a 3-second cooldown to select sparse feedback moments, and then generates short coaching cues with a supervised-finetuned Qwen3.5 vision-language model conditioned on pose observations, recent utterance history, exercise context, and past visual frames. This timing/content pipeline achieved T-F 0.586 and LLM-Acc 3.093 on the local benchmark, and T-F 0.727 with LLM-Acc 2.809 in the official competition evaluation.
 <br/>
 
 ![]({{ "/assets/img/methods/fitness_2.png" | relative_url }}){:style="margin:auto; display:block;width:80%"}
 
 <br/>
 
-### Results: Cooking Method Highlight
+### Results: Cooking Method Highlights
+#### MR-CAS (Chinese Academy of Sciences, Beijing Academy of Artificial Intelligence)
+**Members:** Ruocheng Cui, Yuhai Li, Shilong Bao, Boyu Han, Qianqian Xu, Qingming Huang 
 
-**Yeeun Choi**:
+**Method:** We propose a hierarchical two-stage video understanding framework for the Cooking task in the VAR 2026 AI Coach Challenge. Our method first uses Gemini-3.5 Flash to perform coarse-grained reasoning over the full cooking video and recipe action list, segmenting the video into approximate recipe steps and generating step-level instructions. It then applies GPT-5.5 for fine-grained inspection within each segment to detect visible mistakes, localize their timestamps, and generate corrective feedback. To handle long videos, segments are processed with adaptive frame sampling and overlapping chunks, while summaries of previous chunks preserve temporal continuity. Candidate feedback is merged and deduplicated, and if no mistake is detected, the system produces positive completion feedback. The final output organizes instructions, corrective feedback, and success messages with fine-grained timestamps in the required submission format.
+<br/>
+<br/>
+
+#### Yeeun Choi (Yonsei University)
 We present a training-free pipeline for the AI Coach Cooking Challenge, built upon the Qwen3-VL-8B-Instruct baseline. In its default free-form setting, this baseline suffers from a strong "no mistake" bias, completely failing to detect errors (F1 = 0.00). Our framework overcomes this limitation to address fine-grained cooking recipes and mistakes without requiring any model fine-tuning. First, following Bhattacharyya et al. (NeurIPS 2025), we generate a checklist of plausible mistakes for each instruction. We then provide the model with the video frames and this checklist, formulating the error-detection task as a multiple-choice selection. Subsequently, we employ an agentic visual verifier (Grounding DINO) via tool-calling to post-check details whether the object nouns referenced in the selected mistakes are actually visible in the frame; predictions lacking visual support are dropped. This verification step significantly reduces false positives. On the official main/test split, our system achieves an F1 score of 0.20 and an IC-Acc of 31.4. This represents a substantial improvement over the 8B baseline (F1 = 0.00, IC-Acc = 19.8), all accomplished with zero training on a single GPU.
 <br/>
 
